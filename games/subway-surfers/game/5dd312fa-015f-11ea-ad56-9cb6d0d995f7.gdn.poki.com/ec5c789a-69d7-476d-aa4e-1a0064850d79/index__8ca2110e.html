@@ -2,6 +2,17 @@
 <html lang="en">
 <head><script>
 (() => {
+  const nativeAtob = window.atob.bind(window);
+  window.atob = (value) => {
+    const decoded = nativeAtob(value);
+    return /(?:sitelock|game-not-available)/i.test(decoded)
+      ? "#gametakr"
+      : decoded;
+  };
+})();
+</script>
+<script>
+(() => {
   const ok = () => Promise.resolve();
   const no = () => Promise.resolve(false);
   const sdk = new Proxy({
@@ -338,5 +349,14 @@ function LoadingBar()
 window.loadingBar = new LoadingBar();
 </script>
     <!-- Vite entry point -->
-</body>
+<script>
+setTimeout(() => {
+  try {
+    if (typeof startGame === "function" && !window.__gametakrStarted) {
+      window.__gametakrStarted = true;
+      startGame();
+    }
+  } catch (error) {}
+}, 9000);
+</script></body>
 </html>

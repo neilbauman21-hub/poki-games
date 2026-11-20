@@ -11,17 +11,17 @@
         "value": "%7B%22currentAB%22%3A%22b-8150d44d%22%2C%22activeTests%22%3A%5B%2228f14352%22%2C%22377c53f1%22%2C%223fc608a0%22%2C%228150d44d%22%2C%22969a0f4b%22%2C%22a7220b3a%22%2C%22a9c37c9a%22%2C%22bedd87bc%22%2C%22d49297e6%22%2C%22dab3ac7f%22%2C%22f0f069d5%22%5D%7D",
         "domain": "poki.com",
         "path": "/",
-        "expires": 1810701349.104262,
+        "expires": 1810707362.311447,
         "httpOnly": false,
         "secure": true,
         "sameSite": "Lax"
       },
       {
         "name": "poki_uid",
-        "value": "av_OJaKIq-HxOIBP5SWtIg",
+        "value": "av_loq9mn4sMOuyL-QqKzA",
         "domain": "poki.com",
         "path": "/",
-        "expires": 1810701349.435663,
+        "expires": 1810707362.591388,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
@@ -31,7 +31,7 @@
         "value": "1",
         "domain": "poki.com",
         "path": "/",
-        "expires": 1810701349.43569,
+        "expires": 1810707362.591412,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
@@ -41,7 +41,7 @@
         "value": "2",
         "domain": "poki.com",
         "path": "/",
-        "expires": 1810701349.435709,
+        "expires": 1810707362.591469,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
@@ -51,47 +51,47 @@
         "value": "15552000",
         "domain": "poki.com",
         "path": "/",
-        "expires": 1810701349.435728,
+        "expires": 1810707362.591496,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
       },
       {
         "name": "poki_session",
-        "value": "{\"id\":\"av_OJa2TnJekGcI60bOlSg\",\"expire\":1795151149609,\"tab_id\":\"av_OJX6vxp49r5pc9BG_LA\",\"depth\":1,\"count\":1,\"page\":{\"path\":\"/en/g/subway-surfers\",\"type\":\"game\",\"id\":29160,\"start\":1795149349434,\"pageview_id\":\"av_OJfJ4ICjGlbEiGytR2Q\"},\"previous_page\":{},\"landing_page\":{\"path\":\"/en/g/subway-surfers\",\"type\":\"game\",\"id\":29160,\"start\":1795149349434,\"pageview_id\":\"av_OJfJ4ICjGlbEiGytR2Q\"},\"referrer_domain\":\"\",\"source\":\"direct\",\"medium\":\"unknown\"}",
+        "value": "{\"id\":\"av_lomIqQlVZRL4KDwn9Lg\",\"expire\":1795157162840,\"tab_id\":\"av_lojUcbUL0YAKZGvEdBQ\",\"depth\":1,\"count\":1,\"page\":{\"path\":\"/en/g/subway-surfers\",\"type\":\"game\",\"id\":29160,\"start\":1795155362590,\"pageview_id\":\"av_lonPYx2xqiaOPYjjPmQ\"},\"previous_page\":{},\"landing_page\":{\"path\":\"/en/g/subway-surfers\",\"type\":\"game\",\"id\":29160,\"start\":1795155362590,\"pageview_id\":\"av_lonPYx2xqiaOPYjjPmQ\"},\"referrer_domain\":\"\",\"source\":\"direct\",\"medium\":\"unknown\"}",
         "domain": "poki.com",
         "path": "/",
-        "expires": 1810701349.620545,
-        "httpOnly": false,
-        "secure": false,
-        "sameSite": "Lax"
-      },
-      {
-        "name": "_gcl_au",
-        "value": "1.1.1082453838.1795149350",
-        "domain": ".poki.com",
-        "path": "/",
-        "expires": 1802925349,
+        "expires": 1810707362.84102,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
       },
       {
         "name": "__obref",
-        "value": "2d15ef18-7e3d-4bce-9b44-9494f4735587",
+        "value": "7a892e39-2597-4dd6-858a-71827d7e2702",
         "domain": ".poki.com",
         "path": "/",
-        "expires": 1826685350.016576,
+        "expires": 1826691363.080184,
         "httpOnly": false,
         "secure": true,
         "sameSite": "None"
+      },
+      {
+        "name": "_gcl_au",
+        "value": "1.1.1373481857.1795155363",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1802931363,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
       },
       {
         "name": "usprivacy",
         "value": "1NNN",
         "domain": ".poki.com",
         "path": "/",
-        "expires": 1828845350.354955,
+        "expires": 1828851363.386691,
         "httpOnly": false,
         "secure": true,
         "sameSite": "Lax"
@@ -101,27 +101,27 @@
         "value": "DBABBg~BAAAAACY.QA",
         "domain": ".poki.com",
         "path": "/",
-        "expires": 1828845350.357636,
+        "expires": 1828851363.389402,
         "httpOnly": false,
         "secure": true,
         "sameSite": "Lax"
       },
       {
         "name": "_uetsid",
-        "value": "dcfa1f50e49b11f19ce381032321bc8a",
+        "value": "dd05fce0e4a911f1868e6fa3e5a61758",
         "domain": ".poki.com",
         "path": "/",
-        "expires": 1795235750,
+        "expires": 1795241763,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
       },
       {
         "name": "_uetvid",
-        "value": "dcfa4420e49b11f18482f7c4f63372c1",
+        "value": "dd061630e4a911f1ac9af53fb2297cb0",
         "domain": ".poki.com",
         "path": "/",
-        "expires": 1828845350,
+        "expires": 1828851363,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
@@ -137,11 +137,11 @@
           },
           {
             "name": "GameSettings",
-            "value": "{\"name\":\"UltimateSloth\",\"muted\":false,\"tutorial\":false,\"adConsent\":false,\"wordHunt\":{\"word\":\"-OjDGO&huDGO\",\"currentLetter\":\"\",\"completed\":[],\"started\":true},\"currencies\":{\"coins\":0,\"keys\":5},\"highscore\":0,\"missions\":[[{\"id\":\"mission-pickup-coins\",\"progress\":0,\"started\":true},{\"id\":\"mission-score-onerun\",\"progress\":0,\"started\":true},{\"id\":\"mission-pickup-powerups\",\"progress\":0,\"started\":true}]],\"rewardedBreakPrize\":0}"
+            "value": "{\"name\":\"TripleVanilla\",\"muted\":false,\"tutorial\":false,\"adConsent\":false,\"wordHunt\":{\"word\":\"-OjDGO&huDGO\",\"currentLetter\":\"\",\"completed\":[],\"started\":true},\"currencies\":{\"coins\":0,\"keys\":5},\"highscore\":0,\"missions\":[[{\"id\":\"mission-pickup-coins\",\"progress\":0,\"started\":true},{\"id\":\"mission-score-onerun\",\"progress\":0,\"started\":true},{\"id\":\"mission-pickup-powerups\",\"progress\":0,\"started\":true}]],\"rewardedBreakPrize\":0}"
           },
           {
             "name": "poki_events_user_id",
-            "value": "380c76dc-2d2f-4305-accc-509b95e84b98"
+            "value": "49a958a1-3f28-47f4-8da9-1edbd44a1ede"
           },
           {
             "name": "ShopSettings",
@@ -166,7 +166,7 @@
           },
           {
             "name": "_uetvid_exp",
-            "value": "Wed, 15 Dec 2027 04:35:50 GMT"
+            "value": "Wed, 15 Dec 2027 06:16:03 GMT"
           },
           {
             "name": "_acceptanceState",
@@ -174,7 +174,7 @@
           },
           {
             "name": "_uetsid_exp",
-            "value": "Sat, 21 Nov 2026 04:35:50 GMT"
+            "value": "Sat, 21 Nov 2026 06:16:03 GMT"
           },
           {
             "name": "_gppHash",
@@ -182,23 +182,23 @@
           },
           {
             "name": "_uetvid",
-            "value": "dcfa4420e49b11f18482f7c4f63372c1"
+            "value": "dd061630e4a911f1ac9af53fb2297cb0"
           },
           {
             "name": "_gcl_ls",
-            "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":1,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1795149349924},\"expires\":1802925349924},\"gsid_dc\":{\"value\":{\"joinId\":\"NBE0OH7zKwlD1Pb913G5sgEsPAWs-re6vA\",\"lastJoinedTimeMs\":1795149349911},\"expires\":1795149649911},\"gtg_load_status\":{\"status\":2,\"expires\":1795235750278}}"
+            "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":1,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1795155363148},\"expires\":1802931363148},\"gsid_dc\":{\"value\":{\"joinId\":\"qPJtXJ6gFkN94i9iBoFiQyJfW2VE3xcElQ\",\"lastJoinedTimeMs\":1795155363135},\"expires\":1795155663135}}"
           },
           {
             "name": "_uetsid",
-            "value": "dcfa1f50e49b11f19ce381032321bc8a"
+            "value": "dd05fce0e4a911f1868e6fa3e5a61758"
           },
           {
             "name": "visitTimestamp",
-            "value": "1795149350364"
+            "value": "1795155363397"
           }
         ]
       }
     ]
   },
-  "created_at": "2026-11-20T04:36:35.968778Z"
+  "created_at": "2026-11-20T06:16:48.840625Z"
 }
