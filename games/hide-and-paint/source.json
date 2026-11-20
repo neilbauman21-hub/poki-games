@@ -1,0 +1,208 @@
+{
+  "version": 2,
+  "start_url": "https://50b30e91-88a0-4d24-956f-04421e7e8dbb.gdn.poki.com/4445f10e-8aa3-424f-8799-2b2d6559a40d/index.html?country=US&ccpaApplies=1&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-8d71d02469e2a649613fd929419c760510dd3004&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fhide-and-paint&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3%2C4%2C6%2C9%2C16%2C34%2C38%2C76%2C91%2C93%2C183%2C228%2C929%2C1120%2C1139%2C1140%2C1141%2C1165%2C1185%2C1190%2C1193%2C1213&ab=4fb6d95e3020d8b93152f378a8052cfe05e98f18&experiment=b-8150d44d&special_condition=landing&bot=1&domain=poki.com&game_id=50b30e91-88a0-4d24-956f-04421e7e8dbb&game_version_id=4445f10e-8aa3-424f-8799-2b2d6559a40d&inspector=0&csp=1",
+  "title": "Hide and paint - Gate Fixes",
+  "game_frame_url": "https://50b30e91-88a0-4d24-956f-04421e7e8dbb.gdn.poki.com/4445f10e-8aa3-424f-8799-2b2d6559a40d/index.html?country=US&ccpaApplies=1&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-8d71d02469e2a649613fd929419c760510dd3004&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fhide-and-paint&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3%2C4%2C6%2C9%2C16%2C34%2C38%2C76%2C91%2C93%2C183%2C228%2C929%2C1120%2C1139%2C1140%2C1141%2C1165%2C1185%2C1190%2C1193%2C1213&ab=4fb6d95e3020d8b93152f378a8052cfe05e98f18&experiment=b-8150d44d&special_condition=landing&bot=1&domain=poki.com&game_id=50b30e91-88a0-4d24-956f-04421e7e8dbb&game_version_id=4445f10e-8aa3-424f-8799-2b2d6559a40d&inspector=0&csp=1",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/159.0.8154.6 Safari/537.36",
+  "storage_state": {
+    "cookies": [
+      {
+        "name": "poki_experiments",
+        "value": "%7B%22currentAB%22%3A%22b-8150d44d%22%2C%22activeTests%22%3A%5B%2228f14352%22%2C%22377c53f1%22%2C%223fc608a0%22%2C%228150d44d%22%2C%22969a0f4b%22%2C%22a7220b3a%22%2C%22a9c37c9a%22%2C%22bedd87bc%22%2C%22d49297e6%22%2C%22dab3ac7f%22%2C%22f0f069d5%22%5D%7D",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708127.210219,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid",
+        "value": "av_onwAN7b2xXSShyESZFw",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708127.573727,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_new",
+        "value": "1",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708127.573818,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_version",
+        "value": "2",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708127.57387,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_ttl",
+        "value": "15552000",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708127.573902,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_session",
+        "value": "{\"id\":\"av_on6I34xRQPYqzfAt4BA\",\"expire\":1795157927856,\"tab_id\":\"av_on0SAWjFRx0cSJ9mipg\",\"depth\":1,\"count\":1,\"page\":{\"path\":\"/en/g/hide-and-paint\",\"type\":\"game\",\"id\":32366,\"start\":1795156127572,\"pageview_id\":\"av_on01UingJvSBams2uyA\"},\"previous_page\":{},\"landing_page\":{\"path\":\"/en/g/hide-and-paint\",\"type\":\"game\",\"id\":32366,\"start\":1795156127572,\"pageview_id\":\"av_on01UingJvSBams2uyA\"},\"referrer_domain\":\"\",\"source\":\"direct\",\"medium\":\"unknown\"}",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708127.866498,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "__obref",
+        "value": "762ee208-3b4a-48da-9ce7-6faacce63fba",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1826692128.350889,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "_gcl_au",
+        "value": "1.1.622263552.1795156129",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1802932128,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "usprivacy",
+        "value": "1NNN",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828852129.0082,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "IABGPP_HDR_GppString",
+        "value": "DBABBg~BAAAAACY.QA",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828852129.012185,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_uetsid",
+        "value": "a55f03c0e4ab11f1a24967459a75a6d9",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1795242529,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_uetvid",
+        "value": "a55f3d40e4ab11f1acb0156c7dc99962",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828852129,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      }
+    ],
+    "origins": [
+      {
+        "origin": "https://50b30e91-88a0-4d24-956f-04421e7e8dbb.gdn.poki.com",
+        "localStorage": [
+          {
+            "name": "UnlockedLevels_v9",
+            "value": "[\"Level-1\"]"
+          },
+          {
+            "name": "HideAndPaint:OwnerId",
+            "value": "d264ce61f9fc0385ba099779b1bceeaba95baa48f4d30da9fdc3d73698623950"
+          },
+          {
+            "name": "FirstLogin_v9",
+            "value": "1795156128823"
+          },
+          {
+            "name": "LanguageIndex_v9",
+            "value": "0"
+          },
+          {
+            "name": "poki_pbf",
+            "value": "1"
+          },
+          {
+            "name": "CurrentLevel_v9",
+            "value": "Level-1"
+          },
+          {
+            "name": "poki_events_user_id",
+            "value": "9bd35af5-435e-469b-b66c-5d4fec2a25b7"
+          }
+        ]
+      },
+      {
+        "origin": "https://poki.com",
+        "localStorage": [
+          {
+            "name": "user_current_location",
+            "value": "ca"
+          },
+          {
+            "name": "_uetvid_exp",
+            "value": "Wed, 15 Dec 2027 06:28:49 GMT"
+          },
+          {
+            "name": "_acceptanceState",
+            "value": "Partial"
+          },
+          {
+            "name": "_uetsid_exp",
+            "value": "Sat, 21 Nov 2026 06:28:49 GMT"
+          },
+          {
+            "name": "_gppHash",
+            "value": "jasyJo6AVB/Dn4uAADvwgw=="
+          },
+          {
+            "name": "_uetvid",
+            "value": "a55f3d40e4ab11f1acb0156c7dc99962"
+          },
+          {
+            "name": "_gcl_ls",
+            "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":1,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1795156128545},\"expires\":1802932128545},\"gsid_dc\":{\"value\":{\"joinId\":\"UaX71NR0vyGfzVGwfxgvkJxgWn_ADm8iJA\",\"lastJoinedTimeMs\":1795156128516},\"expires\":1795156428516},\"gtg_load_status\":{\"status\":2,\"expires\":1795242528877}}"
+          },
+          {
+            "name": "_uetsid",
+            "value": "a55f03c0e4ab11f1a24967459a75a6d9"
+          },
+          {
+            "name": "visitTimestamp",
+            "value": "1795156129022"
+          }
+        ]
+      }
+    ]
+  },
+  "created_at": "2026-11-20T06:29:59.275110Z"
+}
