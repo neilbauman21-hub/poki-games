@@ -31,10 +31,10 @@ html,body{margin:0;height:100%;background:#000;overflow:hidden}
   const main = manifest.entries.find(function (e) { return e.url === manifest.start_url; })
     || manifest.entries.find(function (e) { return e.path.endsWith(".html"); });
   if (!main) throw new Error("No game HTML in manifest.");
-  const base = new URL(main.path, window.location.href);
-  base.pathname = base.pathname.slice(0, base.pathname.lastIndexOf("/") + 1);
-  let html = await fetch(base.href, {cache: "no-store"}).then(function (r) { return r.text(); });
-  const baseTag = '<base href="' + base.href + '">';
+  const mainUrl = new URL(main.path, window.location.href);
+  const base = new URL(".", mainUrl).href;
+  let html = await fetch(mainUrl.href, {cache: "no-store"}).then(function (r) { return r.text(); });
+  const baseTag = '<base href="' + base + '">';
   html = /<head[^>]*>/i.test(html)
     ? html.replace(/<head[^>]*>/i, function (tag) { return tag + baseTag; })
     : baseTag + html;
