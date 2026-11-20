@@ -1,0 +1,204 @@
+{
+  "version": 2,
+  "start_url": "https://5dd312fa-015f-11ea-ad56-9cb6d0d995f7.gdn.poki.com/ec5c789a-69d7-476d-aa4e-1a0064850d79/index.html?country=US&ccpaApplies=1&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-8d71d02469e2a649613fd929419c760510dd3004&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fsubway-surfers&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3%2C4%2C6%2C9%2C93%2C103%2C228%2C903%2C929%2C1140%2C1185%2C1190%2C1193&ab=4fb6d95e3020d8b93152f378a8052cfe05e98f18&experiment=b-8150d44d&special_condition=landing&bot=1&domain=poki.com&game_id=5dd312fa-015f-11ea-ad56-9cb6d0d995f7&game_version_id=ec5c789a-69d7-476d-aa4e-1a0064850d79&inspector=0&csp=1",
+  "title": "Subway Surfers Web",
+  "game_frame_url": "https://5dd312fa-015f-11ea-ad56-9cb6d0d995f7.gdn.poki.com/ec5c789a-69d7-476d-aa4e-1a0064850d79/index.html?country=US&ccpaApplies=1&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-8d71d02469e2a649613fd929419c760510dd3004&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fsubway-surfers&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=3%2C4%2C6%2C9%2C93%2C103%2C228%2C903%2C929%2C1140%2C1185%2C1190%2C1193&ab=4fb6d95e3020d8b93152f378a8052cfe05e98f18&experiment=b-8150d44d&special_condition=landing&bot=1&domain=poki.com&game_id=5dd312fa-015f-11ea-ad56-9cb6d0d995f7&game_version_id=ec5c789a-69d7-476d-aa4e-1a0064850d79&inspector=0&csp=1",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/159.0.8154.6 Safari/537.36",
+  "storage_state": {
+    "cookies": [
+      {
+        "name": "poki_experiments",
+        "value": "%7B%22currentAB%22%3A%22b-8150d44d%22%2C%22activeTests%22%3A%5B%2228f14352%22%2C%22377c53f1%22%2C%223fc608a0%22%2C%228150d44d%22%2C%22969a0f4b%22%2C%22a7220b3a%22%2C%22a9c37c9a%22%2C%22bedd87bc%22%2C%22d49297e6%22%2C%22dab3ac7f%22%2C%22f0f069d5%22%5D%7D",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810701349.104262,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid",
+        "value": "av_OJaKIq-HxOIBP5SWtIg",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810701349.435663,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_new",
+        "value": "1",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810701349.43569,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_version",
+        "value": "2",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810701349.435709,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_ttl",
+        "value": "15552000",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810701349.435728,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_session",
+        "value": "{\"id\":\"av_OJa2TnJekGcI60bOlSg\",\"expire\":1795151149609,\"tab_id\":\"av_OJX6vxp49r5pc9BG_LA\",\"depth\":1,\"count\":1,\"page\":{\"path\":\"/en/g/subway-surfers\",\"type\":\"game\",\"id\":29160,\"start\":1795149349434,\"pageview_id\":\"av_OJfJ4ICjGlbEiGytR2Q\"},\"previous_page\":{},\"landing_page\":{\"path\":\"/en/g/subway-surfers\",\"type\":\"game\",\"id\":29160,\"start\":1795149349434,\"pageview_id\":\"av_OJfJ4ICjGlbEiGytR2Q\"},\"referrer_domain\":\"\",\"source\":\"direct\",\"medium\":\"unknown\"}",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810701349.620545,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_gcl_au",
+        "value": "1.1.1082453838.1795149350",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1802925349,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "__obref",
+        "value": "2d15ef18-7e3d-4bce-9b44-9494f4735587",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1826685350.016576,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "usprivacy",
+        "value": "1NNN",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828845350.354955,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "IABGPP_HDR_GppString",
+        "value": "DBABBg~BAAAAACY.QA",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828845350.357636,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_uetsid",
+        "value": "dcfa1f50e49b11f19ce381032321bc8a",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1795235750,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_uetvid",
+        "value": "dcfa4420e49b11f18482f7c4f63372c1",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828845350,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      }
+    ],
+    "origins": [
+      {
+        "origin": "https://5dd312fa-015f-11ea-ad56-9cb6d0d995f7.gdn.poki.com",
+        "localStorage": [
+          {
+            "name": "Awards",
+            "value": "{\"progress\":{\"award-own-characters\":{\"tier\":0,\"value\":0},\"award-own-boards\":{\"tier\":0,\"value\":0},\"award-own-outfits\":{\"tier\":0,\"value\":-1}}}"
+          },
+          {
+            "name": "GameSettings",
+            "value": "{\"name\":\"UltimateSloth\",\"muted\":false,\"tutorial\":false,\"adConsent\":false,\"wordHunt\":{\"word\":\"-OjDGO&huDGO\",\"currentLetter\":\"\",\"completed\":[],\"started\":true},\"currencies\":{\"coins\":0,\"keys\":5},\"highscore\":0,\"missions\":[[{\"id\":\"mission-pickup-coins\",\"progress\":0,\"started\":true},{\"id\":\"mission-score-onerun\",\"progress\":0,\"started\":true},{\"id\":\"mission-pickup-powerups\",\"progress\":0,\"started\":true}]],\"rewardedBreakPrize\":0}"
+          },
+          {
+            "name": "poki_events_user_id",
+            "value": "380c76dc-2d2f-4305-accc-509b95e84b98"
+          },
+          {
+            "name": "ShopSettings",
+            "value": "{\"purchased\":{\"characters\":[\"jake\"],\"outfits\":[],\"boards\":[\"hoverboard\"],\"boosts\":{\"consumables\":{\"hoverboard\":3,\"mysteryBox\":0,\"scoreBooster\":0,\"headstart\":0},\"permanents\":{\"jetpack\":0,\"sneakers\":0,\"magnet\":0,\"multiplier\":0}}}}"
+          },
+          {
+            "name": "BoardSettings",
+            "value": "{\"name\":\"hoverboard\",\"powerups\":[0]}"
+          },
+          {
+            "name": "poki_pbf",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "origin": "https://poki.com",
+        "localStorage": [
+          {
+            "name": "user_current_location",
+            "value": "ca"
+          },
+          {
+            "name": "_uetvid_exp",
+            "value": "Wed, 15 Dec 2027 04:35:50 GMT"
+          },
+          {
+            "name": "_acceptanceState",
+            "value": "Partial"
+          },
+          {
+            "name": "_uetsid_exp",
+            "value": "Sat, 21 Nov 2026 04:35:50 GMT"
+          },
+          {
+            "name": "_gppHash",
+            "value": "jasyJo6AVB/Dn4uAADvwgw=="
+          },
+          {
+            "name": "_uetvid",
+            "value": "dcfa4420e49b11f18482f7c4f63372c1"
+          },
+          {
+            "name": "_gcl_ls",
+            "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":1,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1795149349924},\"expires\":1802925349924},\"gsid_dc\":{\"value\":{\"joinId\":\"NBE0OH7zKwlD1Pb913G5sgEsPAWs-re6vA\",\"lastJoinedTimeMs\":1795149349911},\"expires\":1795149649911},\"gtg_load_status\":{\"status\":2,\"expires\":1795235750278}}"
+          },
+          {
+            "name": "_uetsid",
+            "value": "dcfa1f50e49b11f19ce381032321bc8a"
+          },
+          {
+            "name": "visitTimestamp",
+            "value": "1795149350364"
+          }
+        ]
+      }
+    ]
+  },
+  "created_at": "2026-11-20T04:36:35.968778Z"
+}
