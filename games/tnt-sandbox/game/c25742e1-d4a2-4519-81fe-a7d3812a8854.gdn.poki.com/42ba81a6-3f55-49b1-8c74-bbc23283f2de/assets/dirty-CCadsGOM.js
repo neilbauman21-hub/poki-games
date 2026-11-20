@@ -1,1 +1,0 @@
-var e=1;function t(){e++}function n(){return e}export{n,t};
