@@ -3,11 +3,14 @@ const CACHE = "gametakr-3014d390ccfb";
 const SCOPE = new URL(self.registration.scope);
 const byUrl = new Map();
 const byLocal = new Map();
+const byLocalNoGames = new Map();
 const byPath = new Map();
 
 for (const entry of MANIFEST.entries) {
   byUrl.set(entry.method.toUpperCase() + " " + entry.url, entry);
-  byLocal.set(new URL(entry.path, self.registration.scope).pathname, entry);
+  const localPath = new URL(entry.path, self.registration.scope).pathname;
+  byLocal.set(localPath, entry);
+  byLocalNoGames.set(localPath.replace("/games/", "/"), entry);
   const path = new URL(entry.url).pathname;
   const list = byPath.get(path) || [];
   list.push(entry);
@@ -35,6 +38,8 @@ function find(request) {
   if (url.origin === SCOPE.origin) {
     const exact = byLocal.get(url.pathname);
     if (exact) return exact;
+    const noGames = byLocalNoGames.get(url.pathname.replace("/games/", "/"));
+    if (noGames) return noGames;
     const parts = url.pathname.split("/").filter(Boolean);
     if (parts[0] === "game" && parts.length > 2) {
       const originalPath = "/" + parts.slice(2).join("/");
