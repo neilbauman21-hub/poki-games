@@ -1,0 +1,208 @@
+{
+  "version": 2,
+  "start_url": "https://5515b0a5-cf28-4513-8a95-588b206fb79f.gdn.poki.com/cebba059-d8f9-4a0a-8538-729a2e05c9c2/index.html?country=US&ccpaApplies=1&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-ae0ed3d1e26d809eeace674b1f38ce4d28ca25d2&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fslime-keyboard-escape&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=9%2C48%2C76%2C93%2C1140%2C1141%2C1185%2C1190&special_condition=landing&bot=1&domain=poki.com&game_id=5515b0a5-cf28-4513-8a95-588b206fb79f&game_version_id=cebba059-d8f9-4a0a-8538-729a2e05c9c2&inspector=0&csp=1",
+  "title": "Slime Keyboard Escape",
+  "game_frame_url": "https://5515b0a5-cf28-4513-8a95-588b206fb79f.gdn.poki.com/cebba059-d8f9-4a0a-8538-729a2e05c9c2/index.html?country=US&ccpaApplies=1&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-ae0ed3d1e26d809eeace674b1f38ce4d28ca25d2&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fslime-keyboard-escape&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=9%2C48%2C76%2C93%2C1140%2C1141%2C1185%2C1190&special_condition=landing&bot=1&domain=poki.com&game_id=5515b0a5-cf28-4513-8a95-588b206fb79f&game_version_id=cebba059-d8f9-4a0a-8538-729a2e05c9c2&inspector=0&csp=1",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/159.0.8154.6 Safari/537.36",
+  "storage_state": {
+    "cookies": [
+      {
+        "name": "poki_experiments",
+        "value": "%7B%22activeTests%22%3A%5B%2228f14352%22%2C%22377c53f1%22%2C%223fc608a0%22%2C%228150d44d%22%2C%22969a0f4b%22%2C%22a7220b3a%22%2C%22a9c37c9a%22%2C%22bedd87bc%22%2C%22d49297e6%22%2C%22dab3ac7f%22%2C%22f0f069d5%22%5D%7D",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708078.33105,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid",
+        "value": "av_obpi1otqacE2lGyutzQ",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708078.63327,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_new",
+        "value": "1",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708078.633337,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_version",
+        "value": "2",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708078.63343,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_ttl",
+        "value": "15552000",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708078.633459,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_session",
+        "value": "{\"id\":\"av_obhif-uMWdb6fvStadA\",\"expire\":1795157878952,\"tab_id\":\"av_obk9liD-hVT0UC77-Hw\",\"depth\":1,\"count\":1,\"page\":{\"path\":\"/en/g/slime-keyboard-escape\",\"type\":\"game\",\"id\":32447,\"start\":1795156078632,\"pageview_id\":\"av_obtXJGCzSrrvTml9mTg\"},\"previous_page\":{},\"landing_page\":{\"path\":\"/en/g/slime-keyboard-escape\",\"type\":\"game\",\"id\":32447,\"start\":1795156078632,\"pageview_id\":\"av_obtXJGCzSrrvTml9mTg\"},\"referrer_domain\":\"\",\"source\":\"direct\",\"medium\":\"unknown\"}",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708078.952554,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_gcl_au",
+        "value": "1.1.249791121.1795156079",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1802932079,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "__obref",
+        "value": "470c7fde-8a1f-4a0d-b8ba-f822ce3a9807",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1826692079.255494,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "usprivacy",
+        "value": "1NNN",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828852079.581601,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "IABGPP_HDR_GppString",
+        "value": "DBABBg~BAAAAACY.QA",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828852079.586568,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_uetsid",
+        "value": "87e94a90e4ab11f1a06d0d8f817a3d79",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1795242479,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_uetvid",
+        "value": "87e96230e4ab11f1971bfd636a535534",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828852079,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "__Host-ske-auth-token",
+        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwbGF5ZXJJZCI6IlhkSVJoR3ZwdHg1SiIsImlhdCI6MTc5NTE1NjA5Nn0.GzgtY_BmWqvNTsdvEg4E7F-765fadtXPh9Q6yqiVSBM",
+        "domain": "5515b0a5-cf28-4513-8a95-588b206fb79f.gdn.poki.com",
+        "path": "/",
+        "expires": 1829716192.343078,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None",
+        "partitionKey": "https://poki.com",
+        "_crHasCrossSiteAncestor": false
+      }
+    ],
+    "origins": [
+      {
+        "origin": "https://5515b0a5-cf28-4513-8a95-588b206fb79f.gdn.poki.com",
+        "localStorage": [
+          {
+            "name": "poki_events_user_id",
+            "value": "fbb10fe7-ce63-49c4-a86a-a185e7a3b4da"
+          },
+          {
+            "name": "poki_pbf",
+            "value": "1"
+          },
+          {
+            "name": "preferred-region",
+            "value": "EU"
+          },
+          {
+            "name": "masterVolume",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "origin": "https://poki.com",
+        "localStorage": [
+          {
+            "name": "user_current_location",
+            "value": "ca"
+          },
+          {
+            "name": "_uetvid_exp",
+            "value": "Wed, 15 Dec 2027 06:27:59 GMT"
+          },
+          {
+            "name": "_acceptanceState",
+            "value": "Partial"
+          },
+          {
+            "name": "_uetsid_exp",
+            "value": "Sat, 21 Nov 2026 06:27:59 GMT"
+          },
+          {
+            "name": "_gppHash",
+            "value": "jasyJo6AVB/Dn4uAADvwgw=="
+          },
+          {
+            "name": "_uetvid",
+            "value": "87e96230e4ab11f1971bfd636a535534"
+          },
+          {
+            "name": "_gcl_ls",
+            "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":1,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1795156079192},\"expires\":1802932079192},\"gsid_dc\":{\"value\":{\"joinId\":\"H08pki59CVnvr29HqnCRp1lrpFLXK_km6w\",\"lastJoinedTimeMs\":1795156079175},\"expires\":1795156379175},\"gtg_load_status\":{\"status\":2,\"expires\":1795242479505}}"
+          },
+          {
+            "name": "_uetsid",
+            "value": "87e94a90e4ab11f1a06d0d8f817a3d79"
+          },
+          {
+            "name": "visitTimestamp",
+            "value": "1795156079596"
+          }
+        ]
+      }
+    ]
+  },
+  "created_at": "2026-11-20T06:31:47.471272Z"
+}
