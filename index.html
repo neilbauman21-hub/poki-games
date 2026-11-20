@@ -33,10 +33,10 @@ p{margin:8px 0 0;color:var(--muted)}
 <div id="overlay"><div id="bar"><b id="playing"></b><button id="close">Close</button></div><iframe id="frame" allow="autoplay; fullscreen; gamepad; accelerometer; gyroscope" allowfullscreen></iframe></div>
 <script>
 const games = [{"slug":"master-chess","title":"Master Chess"},{"slug":"subway-surfers","title":"Subway Surfers Web"},{"slug":"minefun-io","title":"MineFun.io - Play Free Online Cube Games"},{"slug":"tag","title":"tag"},{"slug":"cryzen-io","title":"Cryzen.io - Online Multiplayer Shooter Game"},{"slug":"basketball-stars","title":"Basketball Legends"},{"slug":"drift-boss","title":"Drift Boss"},{"slug":"retro-bowl","title":"Retro Bowl"},{"slug":"drive-mad","title":"Drive Mad"}];
-const grid=document.getElementById("grid"),searocument=document.getElementById("search"),count=document.getElementById("count"),overlay=document.getElementById("overlay"),frame=document.getElementById("frame"),playing=document.getElementById("playing");
-function render(){const q=search.value.trim().toLowerCase();const shown=games.filter(g=>g.title.toLowerCase().includes(q));grid.innerHTML="";for(const g of shown){const a=document.createElement("a");a.className="card";a.href="games/"+g.slug+"/index.html";a.innerHTML='<div class="thumb">'+g.title.slice(0,2).toUpperCase()+'</div><b></b><span></span>';a.querySelector("b").textContent=g.title;a.querySelector("span").textContent=g.slug;a.addEventListener("click",e=>{e.preventDefault();playing.textContent=g.title;frame.src=a.href;overlay.classList.add("open")});grid.appendChild(a)}count.textContent=shown.length+" games"}
+const grid=document.getElementById("grid"),count=document.getElementById("count"),overlay=document.getElementById("overlay"),frame=document.getElementById("frame"),playing=document.getElementById("playing");
+function render(){const q=document.getElementById("search").value.trim().toLowerCase();const shown=games.filter(g=>g.title.toLowerCase().includes(q));grid.innerHTML="";for(const g of shown){const a=document.createElement("a");a.className="card";a.href="games/"+g.slug+"/index.html";a.innerHTML='<div class="thumb">'+g.title.slice(0,2).toUpperCase()+'</div><b></b><span></span>';a.querySelector("b").textContent=g.title;a.querySelector("span").textContent=g.slug;a.addEventListener("click",e=>{e.preventDefault();playing.textContent=g.title;frame.src=a.href;overlay.classList.add("open")});grid.appendChild(a)}count.textContent=shown.length+" games"}
 document.getElementById("close").addEventListener("click",()=>{overlay.classList.remove("open");frame.src="about:blank"});
-search.addEventListener("input",render);render();
+document.getElementById("search").addEventListener("input",render);render();
 </script>
 </body>
 </html>
