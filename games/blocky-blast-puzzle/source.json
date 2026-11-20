@@ -1,0 +1,204 @@
+{
+  "version": 2,
+  "start_url": "https://68808795-016c-435b-a275-06b86a4c9353.gdn.poki.com/ef6cb1bf-51ef-4ec4-89fc-693b895e231e/index.html?country=US&ccpaApplies=1&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-8d71d02469e2a649613fd929419c760510dd3004&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fblocky-blast-puzzle&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=4%2C7%2C9%2C13%2C37%2C72%2C103%2C852%2C929%2C1140%2C1187%2C1190%2C1193&ab=4fb6d95e3020d8b93152f378a8052cfe05e98f18&experiment=b-8150d44d&special_condition=landing&bot=1&domain=poki.com&game_id=68808795-016c-435b-a275-06b86a4c9353&game_version_id=ef6cb1bf-51ef-4ec4-89fc-693b895e231e&inspector=0&csp=1",
+  "title": "blocky-puzzle 1.0",
+  "game_frame_url": "https://68808795-016c-435b-a275-06b86a4c9353.gdn.poki.com/ef6cb1bf-51ef-4ec4-89fc-693b895e231e/index.html?country=US&ccpaApplies=1&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-8d71d02469e2a649613fd929419c760510dd3004&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fblocky-blast-puzzle&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=4%2C7%2C9%2C13%2C37%2C72%2C103%2C852%2C929%2C1140%2C1187%2C1190%2C1193&ab=4fb6d95e3020d8b93152f378a8052cfe05e98f18&experiment=b-8150d44d&special_condition=landing&bot=1&domain=poki.com&game_id=68808795-016c-435b-a275-06b86a4c9353&game_version_id=ef6cb1bf-51ef-4ec4-89fc-693b895e231e&inspector=0&csp=1",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/159.0.8154.6 Safari/537.36",
+  "storage_state": {
+    "cookies": [
+      {
+        "name": "poki_experiments",
+        "value": "%7B%22currentAB%22%3A%22b-8150d44d%22%2C%22activeTests%22%3A%5B%2228f14352%22%2C%22377c53f1%22%2C%223fc608a0%22%2C%228150d44d%22%2C%22969a0f4b%22%2C%22a7220b3a%22%2C%22a9c37c9a%22%2C%22bedd87bc%22%2C%22d49297e6%22%2C%22dab3ac7f%22%2C%22f0f069d5%22%5D%7D",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708012.088522,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid",
+        "value": "av_oLGxDYH-kzIBnEOipjA",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708012.26939,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_new",
+        "value": "1",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708012.269485,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_version",
+        "value": "2",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708012.269564,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_ttl",
+        "value": "15552000",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708012.269658,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_session",
+        "value": "{\"id\":\"av_oLG0eS5W1p-gszwOQOw\",\"expire\":1795157812916,\"tab_id\":\"av_oLHCbg1sr_whYSRB3lw\",\"depth\":1,\"count\":1,\"page\":{\"path\":\"/en/g/blocky-blast-puzzle\",\"type\":\"game\",\"id\":30755,\"start\":1795156012268,\"pageview_id\":\"av_oLGUX4VVCL1hHvvfENw\"},\"previous_page\":{},\"landing_page\":{\"path\":\"/en/g/blocky-blast-puzzle\",\"type\":\"game\",\"id\":30755,\"start\":1795156012268,\"pageview_id\":\"av_oLGUX4VVCL1hHvvfENw\"},\"referrer_domain\":\"\",\"source\":\"direct\",\"medium\":\"unknown\"}",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708013.016292,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_gcl_au",
+        "value": "1.1.864608400.1795156014",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1802932013,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "usprivacy",
+        "value": "1NNN",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828852014.5398,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "IABGPP_HDR_GppString",
+        "value": "DBABBg~BAAAAACY.QA",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828852014.545162,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_uetsid",
+        "value": "611d3550e4ab11f1ad83652acabe68fc",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1795242414,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_uetvid",
+        "value": "611d5cd0e4ab11f1931173f1bcc3d524",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828852014,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "__obref",
+        "value": "5579f2ea-a28b-4570-b914-ce52e265b7e5",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1826692014.643917,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      }
+    ],
+    "origins": [
+      {
+        "origin": "https://68808795-016c-435b-a275-06b86a4c9353.gdn.poki.com",
+        "localStorage": [
+          {
+            "name": "GA::396c9e9cda4b7ece44a365ac6c118696::ga_session",
+            "value": "[{\"session_id\":\"ab1be3ca-206b-42b2-83e8-c36cb0d0a12b\",\"timestamp\":1795156017,\"event\":\"JTdCJTIydiUyMjoyLCUyMmV2ZW50X3V1aWQlMjI6JTIyOTM1ZjIyMjAtMDc2Ni00YmRjLTkxMmItMTI0MmM1MzRhZjY4JTIyLCUyMnVzZXJfaWQlMjI6JTIyYTk4YzI0Y2YtNmFmZC00ZjNmLWE1ODMtNTFkNjRiYTAwZDA5JTIyLCUyMmNsaWVudF90cyUyMjoxNzk1MTU2MDE4LCUyMnNka192ZXJzaW9uJTIyOiUyMmRlZm9sZCUyMDQuMi42JTIyLCUyMm9zX3ZlcnNpb24lMjI6JTIybWFjX29zeCUyMDEwLjE1LjclMjIsJTIybWFudWZhY3R1cmVyJTIyOiUyMnVua25vd24lMjIsJTIyZGV2aWNlJTIyOiUyMnVua25vd24lMjIsJTIyYnJvd3Nlcl92ZXJzaW9uJTIyOiUyMmNocm9tZSUyMDE1OSUyMiwlMjJwbGF0Zm9ybSUyMjolMjJtYWNfb3N4JTIyLCUyMnNlc3Npb25faWQlMjI6JTIyYWIxYmUzY2EtMjA2Yi00MmIyLTgzZTgtYzM2Y2IwZDBhMTJiJTIyLCUyMnNlc3Npb25fbnVtJTIyOjEsJTIyY29ubmVjdGlvbl90eXBlJTIyOiUyMmxhbiUyMiwlMjJlbmdpbmVfdmVyc2lvbiUyMjolMjJkZWZvbGQlMjAxLjkuNSUyMiwlMjJidWlsZCUyMjolMjIxLjIwLjIlMjIlN0Q=\"}]"
+          },
+          {
+            "name": "GA::396c9e9cda4b7ece44a365ac6c118696::ga_progression",
+            "value": "[]"
+          },
+          {
+            "name": "GA::396c9e9cda4b7ece44a365ac6c118696::ga_items",
+            "value": "{\"GA::396c9e9cda4b7ece44a365ac6c118696::default_user_id\":\"a98c24cf-6afd-4f3f-a583-51d64ba00d09\",\"GA::396c9e9cda4b7ece44a365ac6c118696::last_used_identifier\":\"a98c24cf-6afd-4f3f-a583-51d64ba00d09\",\"GA::396c9e9cda4b7ece44a365ac6c118696::sdk_config_cached\":\"JTdCJTIyc2VydmVyX3RzJTIyOjE3OTUxNTYwMTcsJTIyY29uZmlncyUyMjolNUIlNUQsJTIyY29uZmlnc19oYXNoJTIyOiUyMjEyOTYyMTExMCUyMiwlMjJ0aW1lX29mZnNldCUyMjowJTdE\",\"GA::396c9e9cda4b7ece44a365ac6c118696::session_num\":\"1\"}"
+          },
+          {
+            "name": "poki_events_user_id",
+            "value": "5c59fbfc-c8ef-441b-8250-fbb9d805bd77"
+          },
+          {
+            "name": "GA::396c9e9cda4b7ece44a365ac6c118696::ga_event",
+            "value": "[{\"status\":\"new\",\"category\":\"design\",\"session_id\":\"ab1be3ca-206b-42b2-83e8-c36cb0d0a12b\",\"client_ts\":1795156018,\"event\":\"JTdCJTIydiUyMjoyLCUyMmV2ZW50X3V1aWQlMjI6JTIyNDliYWQxOGMtMzdmOC00YTNhLWE2YTMtMjZjZDUxMzgzN2QyJTIyLCUyMnVzZXJfaWQlMjI6JTIyYTk4YzI0Y2YtNmFmZC00ZjNmLWE1ODMtNTFkNjRiYTAwZDA5JTIyLCUyMmNsaWVudF90cyUyMjoxNzk1MTU2MDE4LCUyMnNka192ZXJzaW9uJTIyOiUyMmRlZm9sZCUyMDQuMi42JTIyLCUyMm9zX3ZlcnNpb24lMjI6JTIybWFjX29zeCUyMDEwLjE1LjclMjIsJTIybWFudWZhY3R1cmVyJTIyOiUyMnVua25vd24lMjIsJTIyZGV2aWNlJTIyOiUyMnVua25vd24lMjIsJTIyYnJvd3Nlcl92ZXJzaW9uJTIyOiUyMmNocm9tZSUyMDE1OSUyMiwlMjJwbGF0Zm9ybSUyMjolMjJtYWNfb3N4JTIyLCUyMnNlc3Npb25faWQlMjI6JTIyYWIxYmUzY2EtMjA2Yi00MmIyLTgzZTgtYzM2Y2IwZDBhMTJiJTIyLCUyMnNlc3Npb25fbnVtJTIyOjEsJTIyY29ubmVjdGlvbl90eXBlJTIyOiUyMmxhbiUyMiwlMjJlbmdpbmVfdmVyc2lvbiUyMjolMjJkZWZvbGQlMjAxLjkuNSUyMiwlMjJidWlsZCUyMjolMjIxLjIwLjIlMjIsJTIyY2F0ZWdvcnklMjI6JTIyZGVzaWduJTIyLCUyMmV2ZW50X2lkJTIyOiUyMmdhbWU6Z2FtZV9sb2FkJTIyJTdE\"},{\"status\":\"new\",\"category\":\"design\",\"session_id\":\"ab1be3ca-206b-42b2-83e8-c36cb0d0a12b\",\"client_ts\":1795156018,\"event\":\"JTdCJTIydiUyMjoyLCUyMmV2ZW50X3V1aWQlMjI6JTIyNjY4ZDMzMjgtYWFiZi00ZDQyLTk0MzAtY2U1NTViYjA1YzM2JTIyLCUyMnVzZXJfaWQlMjI6JTIyYTk4YzI0Y2YtNmFmZC00ZjNmLWE1ODMtNTFkNjRiYTAwZDA5JTIyLCUyMmNsaWVudF90cyUyMjoxNzk1MTU2MDE4LCUyMnNka192ZXJzaW9uJTIyOiUyMmRlZm9sZCUyMDQuMi42JTIyLCUyMm9zX3ZlcnNpb24lMjI6JTIybWFjX29zeCUyMDEwLjE1LjclMjIsJTIybWFudWZhY3R1cmVyJTIyOiUyMnVua25vd24lMjIsJTIyZGV2aWNlJTIyOiUyMnVua25vd24lMjIsJTIyYnJvd3Nlcl92ZXJzaW9uJTIyOiUyMmNocm9tZSUyMDE1OSUyMiwlMjJwbGF0Zm9ybSUyMjolMjJtYWNfb3N4JTIyLCUyMnNlc3Npb25faWQlMjI6JTIyYWIxYmUzY2EtMjA2Yi00MmIyLTgzZTgtYzM2Y2IwZDBhMTJiJTIyLCUyMnNlc3Npb25fbnVtJTIyOjEsJTIyY29ubmVjdGlvbl90eXBlJTIyOiUyMmxhbiUyMiwlMjJlbmdpbmVfdmVyc2lvbiUyMjolMjJkZWZvbGQlMjAxLjkuNSUyMiwlMjJidWlsZCUyMjolMjIxLjIwLjIlMjIsJTIyY2F0ZWdvcnklMjI6JTIyZGVzaWduJTIyLCUyMmV2ZW50X2lkJTIyOiUyMnByb2dyZXNzOnR1dG9yaWFsOnN0YXJ0JTIyJTdE\"},{\"status\":\"new\",\"category\":\"design\",\"session_id\":\"ab1be3ca-206b-42b2-83e8-c36cb0d0a12b\",\"client_ts\":1795156018,\"event\":\"JTdCJTIydiUyMjoyLCUyMmV2ZW50X3V1aWQlMjI6JTIyZjVkZDIxNmItN2YyMi00Mjk5LWJiOWMtMjk2MDk5NGQ0YjU3JTIyLCUyMnVzZXJfaWQlMjI6JTIyYTk4YzI0Y2YtNmFmZC00ZjNmLWE1ODMtNTFkNjRiYTAwZDA5JTIyLCUyMmNsaWVudF90cyUyMjoxNzk1MTU2MDE4LCUyMnNka192ZXJzaW9uJTIyOiUyMmRlZm9sZCUyMDQuMi42JTIyLCUyMm9zX3ZlcnNpb24lMjI6JTIybWFjX29zeCUyMDEwLjE1LjclMjIsJTIybWFudWZhY3R1cmVyJTIyOiUyMnVua25vd24lMjIsJTIyZGV2aWNlJTIyOiUyMnVua25vd24lMjIsJTIyYnJvd3Nlcl92ZXJzaW9uJTIyOiUyMmNocm9tZSUyMDE1OSUyMiwlMjJwbGF0Zm9ybSUyMjolMjJtYWNfb3N4JTIyLCUyMnNlc3Npb25faWQlMjI6JTIyYWIxYmUzY2EtMjA2Yi00MmIyLTgzZTgtYzM2Y2IwZDBhMTJiJTIyLCUyMnNlc3Npb25fbnVtJTIyOjEsJTIyY29ubmVjdGlvbl90eXBlJTIyOiUyMmxhbiUyMiwlMjJlbmdpbmVfdmVyc2lvbiUyMjolMjJkZWZvbGQlMjAxLjkuNSUyMiwlMjJidWlsZCUyMjolMjIxLjIwLjIlMjIsJTIyY2F0ZWdvcnklMjI6JTIyZGVzaWduJTIyLCUyMmV2ZW50X2lkJTIyOiUyMnByb2dyZXNzOnR1dG9yaWFsOnN0YWdlXzElMjIlN0Q=\"}]"
+          },
+          {
+            "name": "poki_pbf",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "origin": "https://poki.com",
+        "localStorage": [
+          {
+            "name": "user_current_location",
+            "value": "ca"
+          },
+          {
+            "name": "_uetvid_exp",
+            "value": "Wed, 15 Dec 2027 06:26:54 GMT"
+          },
+          {
+            "name": "_acceptanceState",
+            "value": "Partial"
+          },
+          {
+            "name": "_uetsid_exp",
+            "value": "Sat, 21 Nov 2026 06:26:54 GMT"
+          },
+          {
+            "name": "_gppHash",
+            "value": "jasyJo6AVB/Dn4uAADvwgw=="
+          },
+          {
+            "name": "_uetvid",
+            "value": "611d5cd0e4ab11f1931173f1bcc3d524"
+          },
+          {
+            "name": "_gcl_ls",
+            "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":1,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1795156013728},\"expires\":1802932013728},\"gsid_dc\":{\"value\":{\"joinId\":\"wmgnIS5QR7u7qHFLHDDJZqelBGJj_n7Aww\",\"lastJoinedTimeMs\":1795156013703},\"expires\":1795156313703},\"gtg_load_status\":{\"status\":2,\"expires\":1795242414124}}"
+          },
+          {
+            "name": "_uetsid",
+            "value": "611d3550e4ab11f1ad83652acabe68fc"
+          },
+          {
+            "name": "visitTimestamp",
+            "value": "1795156014564"
+          }
+        ]
+      }
+    ]
+  },
+  "created_at": "2026-11-20T06:27:34.065088Z"
+}
