@@ -1,0 +1,198 @@
+{
+  "version": 2,
+  "start_url": "https://5dd31a47-015f-11ea-ad56-9cb6d0d995f7.gdn.poki.com/c2887dba-49c6-43bc-9f8b-d25fe0c42b67/index.html?country=US&ccpaApplies=1&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-a3fb54d4e0dbd74f873d75598424ae466bfe875f&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fmaster-chess&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=7%2C8%2C23%2C66%2C750%2C823%2C852%2C1140%2C1190%2C1193%2C1201&experiment=control-969a0f4b&special_condition=landing&bot=1&domain=poki.com&game_id=5dd31a47-015f-11ea-ad56-9cb6d0d995f7&game_version_id=c2887dba-49c6-43bc-9f8b-d25fe0c42b67&inspector=0&csp=1",
+  "title": "",
+  "game_frame_url": "https://5dd31a47-015f-11ea-ad56-9cb6d0d995f7.gdn.poki.com/c2887dba-49c6-43bc-9f8b-d25fe0c42b67/index.html?country=US&ccpaApplies=1&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-a3fb54d4e0dbd74f873d75598424ae466bfe875f&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fmaster-chess&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=7%2C8%2C23%2C66%2C750%2C823%2C852%2C1140%2C1190%2C1193%2C1201&experiment=control-969a0f4b&special_condition=landing&bot=1&domain=poki.com&game_id=5dd31a47-015f-11ea-ad56-9cb6d0d995f7&game_version_id=c2887dba-49c6-43bc-9f8b-d25fe0c42b67&inspector=0&csp=1",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/159.0.8154.6 Safari/537.36",
+  "storage_state": {
+    "cookies": [
+      {
+        "name": "poki_experiments",
+        "value": "%7B%22currentAB%22%3A%22control-969a0f4b%22%2C%22activeTests%22%3A%5B%2228f14352%22%2C%22377c53f1%22%2C%223fc608a0%22%2C%228150d44d%22%2C%22969a0f4b%22%2C%22a7220b3a%22%2C%22a9c37c9a%22%2C%22bedd87bc%22%2C%22d49297e6%22%2C%22dab3ac7f%22%2C%22f0f069d5%22%5D%7D",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810717252.546882,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_tabt",
+        "value": "1170461749",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1802941252.54699,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid",
+        "value": "awAMRF-dklP6sXFh6sRWNQ",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810717252.742301,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_new",
+        "value": "1",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810717252.742358,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_version",
+        "value": "2",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810717252.742385,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_ttl",
+        "value": "15552000",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810717252.742412,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_session",
+        "value": "{\"id\":\"awAMRIM9IO8plXWd_fpoTw\",\"expire\":1795167052914,\"tab_id\":\"awAMRFau0VMO1TXKVTa8nA\",\"depth\":1,\"count\":1,\"page\":{\"path\":\"/en/g/master-chess\",\"type\":\"game\",\"id\":29174,\"start\":1795165252741,\"pageview_id\":\"awAMRDF8ycnP52DH1APclw\"},\"previous_page\":{},\"landing_page\":{\"path\":\"/en/g/master-chess\",\"type\":\"game\",\"id\":29174,\"start\":1795165252741,\"pageview_id\":\"awAMRDF8ycnP52DH1APclw\"},\"referrer_domain\":\"\",\"source\":\"direct\",\"medium\":\"unknown\"}",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810717252.914997,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_gcl_au",
+        "value": "1.1.144046112.1795165253",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1802941253,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "__obref",
+        "value": "c46be386-c1d4-4573-aac2-9620988a46ee",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1826701253.442425,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "usprivacy",
+        "value": "1NNN",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828861253.739374,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "IABGPP_HDR_GppString",
+        "value": "DBABBg~BAAAAACY.QA",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828861253.743812,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_uetsid",
+        "value": "e422ab60e4c011f1878511ecee86f87c",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1795251653,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_uetvid",
+        "value": "e422cda0e4c011f1b0df95f45c004fca",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828861253,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      }
+    ],
+    "origins": [
+      {
+        "origin": "https://5dd31a47-015f-11ea-ad56-9cb6d0d995f7.gdn.poki.com",
+        "localStorage": [
+          {
+            "name": "poki_pbf",
+            "value": "1"
+          },
+          {
+            "name": "poki_events_user_id",
+            "value": "6bd9548a-27e9-4df1-a403-004036456e3d"
+          }
+        ]
+      },
+      {
+        "origin": "https://poki.com",
+        "localStorage": [
+          {
+            "name": "user_current_location",
+            "value": "ca"
+          },
+          {
+            "name": "_uetvid_exp",
+            "value": "Wed, 15 Dec 2027 09:00:53 GMT"
+          },
+          {
+            "name": "_acceptanceState",
+            "value": "Partial"
+          },
+          {
+            "name": "_uetsid_exp",
+            "value": "Sat, 21 Nov 2026 09:00:53 GMT"
+          },
+          {
+            "name": "_gppHash",
+            "value": "jasyJo6AVB/Dn4uAADvwgw=="
+          },
+          {
+            "name": "_uetvid",
+            "value": "e422cda0e4c011f1b0df95f45c004fca"
+          },
+          {
+            "name": "_gcl_ls",
+            "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":1,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1795165253352},\"expires\":1802941253352},\"gsid_dc\":{\"value\":{\"joinId\":\"x_5tEVyfIFgC4akdjRwFujh0nofhuUlcKg\",\"lastJoinedTimeMs\":1795165253331},\"expires\":1795165553331},\"gtg_load_status\":{\"status\":2,\"expires\":1795251653667}}"
+          },
+          {
+            "name": "_uetsid",
+            "value": "e422ab60e4c011f1878511ecee86f87c"
+          },
+          {
+            "name": "visitTimestamp",
+            "value": "1795165253755"
+          }
+        ]
+      }
+    ]
+  },
+  "created_at": "2026-11-20T09:02:05.694774Z"
+}
