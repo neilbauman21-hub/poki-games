@@ -1,0 +1,192 @@
+{
+  "version": 2,
+  "start_url": "https://e3b80b37-f5d4-4b1f-8c87-dd2645db8a64.gdn.poki.com/ed122028-0a51-4d01-805e-824643ba58f4/index.html?country=US&ccpaApplies=1&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-54fe681c5934898073ff45f76c9c43cba7f59a58&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fcountry-balls-world-war&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=37%2C65%2C66%2C775%2C1140%2C1141%2C1190&ab=acd6ef9dc0f687ad5c041c25fd74e7deff5aa0ae&experiment=control-a9c37c9a&special_condition=landing&bot=1&domain=poki.com&game_id=e3b80b37-f5d4-4b1f-8c87-dd2645db8a64&game_version_id=ed122028-0a51-4d01-805e-824643ba58f4&inspector=0&csp=1",
+  "title": "Country Balls World War - Poki",
+  "game_frame_url": "https://e3b80b37-f5d4-4b1f-8c87-dd2645db8a64.gdn.poki.com/ed122028-0a51-4d01-805e-824643ba58f4/index.html?country=US&ccpaApplies=1&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-54fe681c5934898073ff45f76c9c43cba7f59a58&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fcountry-balls-world-war&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=37%2C65%2C66%2C775%2C1140%2C1141%2C1190&ab=acd6ef9dc0f687ad5c041c25fd74e7deff5aa0ae&experiment=control-a9c37c9a&special_condition=landing&bot=1&domain=poki.com&game_id=e3b80b37-f5d4-4b1f-8c87-dd2645db8a64&game_version_id=ed122028-0a51-4d01-805e-824643ba58f4&inspector=0&csp=1",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/159.0.8154.6 Safari/537.36",
+  "storage_state": {
+    "cookies": [
+      {
+        "name": "poki_experiments",
+        "value": "%7B%22currentAB%22%3A%22control-a9c37c9a%22%2C%22activeTests%22%3A%5B%2228f14352%22%2C%22377c53f1%22%2C%223fc608a0%22%2C%228150d44d%22%2C%22969a0f4b%22%2C%22a7220b3a%22%2C%22a9c37c9a%22%2C%22bedd87bc%22%2C%22d49297e6%22%2C%22dab3ac7f%22%2C%22f0f069d5%22%5D%7D",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708188.708768,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid",
+        "value": "av_o3FZfkmJmiO5RFS5N3Q",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708188.870971,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_new",
+        "value": "1",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708188.871038,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_version",
+        "value": "2",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708188.871121,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_ttl",
+        "value": "15552000",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708188.871152,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_session",
+        "value": "{\"id\":\"av_o3EFUtMl2MBsKHeFb3A\",\"expire\":1795157989259,\"tab_id\":\"av_o3H2Y5gfFWfgrCK7D5Q\",\"depth\":1,\"count\":1,\"page\":{\"path\":\"/en/g/country-balls-world-war\",\"type\":\"game\",\"id\":32483,\"start\":1795156188870,\"pageview_id\":\"av_o3PA2RT4MCMAwB0UmnA\"},\"previous_page\":{},\"landing_page\":{\"path\":\"/en/g/country-balls-world-war\",\"type\":\"game\",\"id\":32483,\"start\":1795156188870,\"pageview_id\":\"av_o3PA2RT4MCMAwB0UmnA\"},\"referrer_domain\":\"\",\"source\":\"direct\",\"medium\":\"unknown\"}",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708189.259775,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_gcl_au",
+        "value": "1.1.1317882909.1795156190",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1802932189,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "__obref",
+        "value": "b8788dd6-60a1-4ceb-a5e0-2cf6ec231add",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1826692189.69281,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "usprivacy",
+        "value": "1NNN",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828852189.921445,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "IABGPP_HDR_GppString",
+        "value": "DBABBg~BAAAAACY.QA",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828852189.925542,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_uetsid",
+        "value": "c9adb520e4ab11f1a2beef1e09e75c95",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1795242589,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_uetvid",
+        "value": "c9adba80e4ab11f1a962496c24733d7b",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828852189,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      }
+    ],
+    "origins": [
+      {
+        "origin": "https://e3b80b37-f5d4-4b1f-8c87-dd2645db8a64.gdn.poki.com",
+        "localStorage": [
+          {
+            "name": "savegame_idbfs_hash",
+            "value": "e0c91210fd6e5b4e51ede2acf47b6bf7"
+          },
+          {
+            "name": "poki_pbf",
+            "value": "1"
+          },
+          {
+            "name": "poki_events_user_id",
+            "value": "c7b030a6-1501-40ad-9228-b6249a30d1a3"
+          }
+        ]
+      },
+      {
+        "origin": "https://poki.com",
+        "localStorage": [
+          {
+            "name": "user_current_location",
+            "value": "ca"
+          },
+          {
+            "name": "_uetvid_exp",
+            "value": "Wed, 15 Dec 2027 06:29:49 GMT"
+          },
+          {
+            "name": "_acceptanceState",
+            "value": "Partial"
+          },
+          {
+            "name": "_uetsid_exp",
+            "value": "Sat, 21 Nov 2026 06:29:49 GMT"
+          },
+          {
+            "name": "_gppHash",
+            "value": "jasyJo6AVB/Dn4uAADvwgw=="
+          },
+          {
+            "name": "_uetvid",
+            "value": "c9adba80e4ab11f1a962496c24733d7b"
+          },
+          {
+            "name": "_gcl_ls",
+            "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":1,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1795156189591},\"expires\":1802932189591},\"gsid_dc\":{\"value\":{\"joinId\":\"vGN9J3gmkgqQRq3xiuQqIlwfGOBOcOU5wQ\",\"lastJoinedTimeMs\":1795156189571},\"expires\":1795156489571},\"gtg_load_status\":{\"status\":2,\"expires\":1795242589891}}"
+          },
+          {
+            "name": "_uetsid",
+            "value": "c9adb520e4ab11f1a2beef1e09e75c95"
+          },
+          {
+            "name": "visitTimestamp",
+            "value": "1795156189936"
+          }
+        ]
+      }
+    ]
+  },
+  "created_at": "2026-11-20T06:30:42.267608Z"
+}
