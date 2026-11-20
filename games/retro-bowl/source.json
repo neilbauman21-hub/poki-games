@@ -1,0 +1,202 @@
+{
+  "version": 2,
+  "start_url": "https://806e2242-df99-4dcd-b6ac-2c20175159a8.gdn.poki.com/9a5a5ef4-bd76-48fa-bf07-5ccbdc09b1f6/index.html?country=US&ccpaApplies=1&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-54fe681c5934898073ff45f76c9c43cba7f59a58&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fretro-bowl&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=2%2C775%2C854%2C929%2C1140%2C1171%2C1193&ab=04cd76cbfb0819177d3ee7752c4385585b523bf9&experiment=a-a9c37c9a&special_condition=landing&bot=1&domain=poki.com&game_id=806e2242-df99-4dcd-b6ac-2c20175159a8&game_version_id=9a5a5ef4-bd76-48fa-bf07-5ccbdc09b1f6&inspector=0&csp=1",
+  "title": "Retro Bowl",
+  "game_frame_url": "https://806e2242-df99-4dcd-b6ac-2c20175159a8.gdn.poki.com/9a5a5ef4-bd76-48fa-bf07-5ccbdc09b1f6/index.html?country=US&ccpaApplies=1&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-54fe681c5934898073ff45f76c9c43cba7f59a58&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fretro-bowl&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=2%2C775%2C854%2C929%2C1140%2C1171%2C1193&ab=04cd76cbfb0819177d3ee7752c4385585b523bf9&experiment=a-a9c37c9a&special_condition=landing&bot=1&domain=poki.com&game_id=806e2242-df99-4dcd-b6ac-2c20175159a8&game_version_id=9a5a5ef4-bd76-48fa-bf07-5ccbdc09b1f6&inspector=0&csp=1",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/159.0.8154.6 Safari/537.36",
+  "storage_state": {
+    "cookies": [
+      {
+        "name": "poki_experiments",
+        "value": "%7B%22currentAB%22%3A%22a-a9c37c9a%22%2C%22activeTests%22%3A%5B%2228f14352%22%2C%22377c53f1%22%2C%223fc608a0%22%2C%228150d44d%22%2C%22969a0f4b%22%2C%22a7220b3a%22%2C%22a9c37c9a%22%2C%22bedd87bc%22%2C%22d49297e6%22%2C%22dab3ac7f%22%2C%22f0f069d5%22%5D%7D",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810713235.548801,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_tabt",
+        "value": "4232332549",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1802937235.549542,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid",
+        "value": "av_8kwDb0e6awHe1x6cKfg",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810713235.801167,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_new",
+        "value": "1",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810713235.80129,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_version",
+        "value": "2",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810713235.801363,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_ttl",
+        "value": "15552000",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810713235.801445,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_session",
+        "value": "{\"id\":\"av_8k6sYCArnefyxMOLa9Q\",\"expire\":1795163035932,\"tab_id\":\"av_8k-jcYcbxBCSNvRcJew\",\"depth\":1,\"count\":1,\"page\":{\"path\":\"/en/g/retro-bowl\",\"type\":\"game\",\"id\":29724,\"start\":1795161235800,\"pageview_id\":\"av_8kzanKxKucjlS7SK1RQ\"},\"previous_page\":{},\"landing_page\":{\"path\":\"/en/g/retro-bowl\",\"type\":\"game\",\"id\":29724,\"start\":1795161235800,\"pageview_id\":\"av_8kzanKxKucjlS7SK1RQ\"},\"referrer_domain\":\"\",\"source\":\"direct\",\"medium\":\"unknown\"}",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810713235.942344,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_gcl_au",
+        "value": "1.1.570706640.1795161236",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1802937236,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "__obref",
+        "value": "8eccc9cd-bee5-4e6c-88d0-766f484bbe08",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1826697236.373859,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "usprivacy",
+        "value": "1NNN",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828857236.856421,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "IABGPP_HDR_GppString",
+        "value": "DBABBg~BAAAAACY.QA",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828857236.859068,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_uetsid",
+        "value": "89e288d0e4b711f1b74307039f754095",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1795247636,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_uetvid",
+        "value": "89e293f0e4b711f1bcab2b949a0c4e10",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828857236,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      }
+    ],
+    "origins": [
+      {
+        "origin": "https://806e2242-df99-4dcd-b6ac-2c20175159a8.gdn.poki.com",
+        "localStorage": [
+          {
+            "name": "RetroBowl.0.optiondata.dat",
+            "value": "6496af6d018f7edd220d024fc6ca533a8eaf848beyJteV92ZXJzaW9uIjo0MywiZnVsbHZlcnNpb24iOjEsIm9wX2RyaXZlZGlyIjowLCJvcF9zY2FubGluZXMiOjAsIm9wX3dlYXRoZXIiOjEsIm9wX3NvdW5kZngiOjEsImRvbmVfcmV2aWV3X3Jld2FyZCI6MCwib3Bfem9vbSI6MCwib3BfbXVzaWMiOjEsIm9wX2NyZWRpdHNfcHVyY2hhc2VkIjowLCJzYXZlc2xvdCI6LTEsIm9wX3JlcGxheXMiOjAsImRvbmVfYWRfcmV0cm9nb2FsIjowLCJvcF9raWNrb2ZmcyI6MSwib3BfaW52ZXJ0X3Rocm93IjowLCJvcF9nYW1lcGFkX2d1aWRlcyI6MSwib3BfaW52ZXJ0X3Rocm93X3AyIjowLCJleGhfb3Bfd2VhdGhlciI6MCwiZXhoX29wX2tpY2tvZmZzIjoxLCJleGhfb3BfZHJpdmVkaXIiOjEsImV4aF9vcF9tYXRjaGxlbmd0aCI6MCwiYWFfdmlkZW9fd2F0Y2hlZCI6MH0="
+          },
+          {
+            "name": "poki_pbf",
+            "value": "1"
+          },
+          {
+            "name": "poki_events_user_id",
+            "value": "2d0d2149-fbc7-4390-86ef-468802a9ee81"
+          }
+        ]
+      },
+      {
+        "origin": "https://poki.com",
+        "localStorage": [
+          {
+            "name": "user_current_location",
+            "value": "ca"
+          },
+          {
+            "name": "_uetvid_exp",
+            "value": "Wed, 15 Dec 2027 07:53:56 GMT"
+          },
+          {
+            "name": "_acceptanceState",
+            "value": "Partial"
+          },
+          {
+            "name": "_uetsid_exp",
+            "value": "Sat, 21 Nov 2026 07:53:56 GMT"
+          },
+          {
+            "name": "_gppHash",
+            "value": "jasyJo6AVB/Dn4uAADvwgw=="
+          },
+          {
+            "name": "_uetvid",
+            "value": "89e293f0e4b711f1bcab2b949a0c4e10"
+          },
+          {
+            "name": "_gcl_ls",
+            "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":1,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1795161236359},\"expires\":1802937236359},\"gsid_dc\":{\"value\":{\"joinId\":\"13j2--UVbQE34ohjEQCBewekWI1D84fFJA\",\"lastJoinedTimeMs\":1795161236345},\"expires\":1795161536345},\"gtg_load_status\":{\"status\":2,\"expires\":1795247636704}}"
+          },
+          {
+            "name": "_uetsid",
+            "value": "89e288d0e4b711f1b74307039f754095"
+          },
+          {
+            "name": "visitTimestamp",
+            "value": "1795161236868"
+          }
+        ]
+      }
+    ]
+  },
+  "created_at": "2026-11-20T07:55:10.017233Z"
+}
