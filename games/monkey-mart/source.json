@@ -1,0 +1,208 @@
+{
+  "version": 2,
+  "start_url": "https://1183520a-1ec4-4f33-a7ce-7673c60f912c.gdn.poki.com/4dbc26ac-2bcf-4173-ae3d-7dc413d48a60/index.html?country=US&ccpaApplies=1&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-54fe681c5934898073ff45f76c9c43cba7f59a58&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fmonkey-mart&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=4%2C52%2C64%2C91%2C103%2C118%2C414%2C839%2C929%2C1014%2C1140%2C1187%2C1193%2C1205&ab=acd6ef9dc0f687ad5c041c25fd74e7deff5aa0ae&experiment=control-a9c37c9a&special_condition=landing&bot=1&domain=poki.com&game_id=1183520a-1ec4-4f33-a7ce-7673c60f912c&game_version_id=4dbc26ac-2bcf-4173-ae3d-7dc413d48a60&inspector=0&csp=1",
+  "title": "MonkeyMart",
+  "game_frame_url": "https://1183520a-1ec4-4f33-a7ce-7673c60f912c.gdn.poki.com/4dbc26ac-2bcf-4173-ae3d-7dc413d48a60/index.html?country=US&ccpaApplies=1&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-54fe681c5934898073ff45f76c9c43cba7f59a58&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fmonkey-mart&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=4%2C52%2C64%2C91%2C103%2C118%2C414%2C839%2C929%2C1014%2C1140%2C1187%2C1193%2C1205&ab=acd6ef9dc0f687ad5c041c25fd74e7deff5aa0ae&experiment=control-a9c37c9a&special_condition=landing&bot=1&domain=poki.com&game_id=1183520a-1ec4-4f33-a7ce-7673c60f912c&game_version_id=4dbc26ac-2bcf-4173-ae3d-7dc413d48a60&inspector=0&csp=1",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/159.0.8154.6 Safari/537.36",
+  "storage_state": {
+    "cookies": [
+      {
+        "name": "poki_experiments",
+        "value": "%7B%22currentAB%22%3A%22control-a9c37c9a%22%2C%22activeTests%22%3A%5B%2228f14352%22%2C%22377c53f1%22%2C%223fc608a0%22%2C%228150d44d%22%2C%22969a0f4b%22%2C%22a7220b3a%22%2C%22a9c37c9a%22%2C%22bedd87bc%22%2C%22d49297e6%22%2C%22dab3ac7f%22%2C%22f0f069d5%22%5D%7D",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708012.080626,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid",
+        "value": "av_oLGWY2_uumIfxpgIGdA",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708012.23926,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_new",
+        "value": "1",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708012.239372,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_version",
+        "value": "2",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708012.239472,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_ttl",
+        "value": "15552000",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708012.239503,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_session",
+        "value": "{\"id\":\"av_oLDzaWicQ1aX3gj7LbQ\",\"expire\":1795157812741,\"tab_id\":\"av_oLD2jUM19wsL9qGjUag\",\"depth\":1,\"count\":1,\"page\":{\"path\":\"/en/g/monkey-mart\",\"type\":\"game\",\"id\":30475,\"start\":1795156012238,\"pageview_id\":\"av_oLCQxbm9uChjpuPQX_g\"},\"previous_page\":{},\"landing_page\":{\"path\":\"/en/g/monkey-mart\",\"type\":\"game\",\"id\":30475,\"start\":1795156012238,\"pageview_id\":\"av_oLCQxbm9uChjpuPQX_g\"},\"referrer_domain\":\"\",\"source\":\"direct\",\"medium\":\"unknown\"}",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810708012.797922,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_gcl_au",
+        "value": "1.1.1883071856.1795156014",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1802932013,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "__obref",
+        "value": "904207f0-cdaf-4adf-a59e-e80b84635880",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1826692014.141657,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "usprivacy",
+        "value": "1NNN",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828852014.49745,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "IABGPP_HDR_GppString",
+        "value": "DBABBg~BAAAAACY.QA",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828852014.505884,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_uetsid",
+        "value": "611f9490e4ab11f1aa5f2f45e1aadd05",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1795242414,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_uetvid",
+        "value": "611fb320e4ab11f19690816a0ea34a6e",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828852014,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      }
+    ],
+    "origins": [
+      {
+        "origin": "https://1183520a-1ec4-4f33-a7ce-7673c60f912c.gdn.poki.com",
+        "localStorage": [
+          {
+            "name": "GA::8460790931685c9f59f3e669a97521bd::ga_event",
+            "value": "[]"
+          },
+          {
+            "name": "poki_pbf",
+            "value": "1"
+          },
+          {
+            "name": "monkeymart_config",
+            "value": "{\"lastplay_date\":1795161600,\"upgrades3\":[[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1]],\"isMutedMusic\":false,\"coins1\":0,\"upgradesC\":[[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1]],\"have_iap\":{},\"have_places4\":[[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0]],\"cash6\":0,\"upgrades4\":[[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1]],\"language\":\"en\",\"coins4\":0,\"s_purchases\":0,\"launch_date\":1795156018,\"have_placesH\":[[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0]],\"s_ads_count\":0,\"have_places3\":[[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0]],\"have_places2\":[[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0]],\"numSale3\":0,\"tick_boosts\":[0,0,0,0],\"cash2\":0,\"numMarket\":1,\"cash5\":0,\"isMutedSfx\":false,\"have_hats\":[[true,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0]],\"amount_gems\":0,\"selectedHat\":0,\"coins5\":0,\"isAllowBonus\":true,\"cooldown_daily_gems\":0,\"numSaleH\":0,\"state_daily_bonus\":1,\"state_daily_gems\":0,\"cashC\":0,\"s_playtime\":0,\"have_placesC\":[[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0]],\"cash1\":0,\"have_places1\":[[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0]],\"upgradesH\":[[1,1,1],[1,1,1],[1,1,1]],\"coinsC\":0,\"coins6\":0,\"numSale2\":0,\"numSale1\":0,\"cashH\":0,\"cash4\":0,\"numSaleC\":0,\"coins2\":0,\"have_places5\":[[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0]],\"numSale6\":0,\"upgrades5\":[[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1]],\"have_places6\":[[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0],[false,0]],\"numSale4\":0,\"coins3\":0,\"upgrades1\":[[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1]],\"upgrades6\":[[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1]],\"coinsH\":0,\"numSale5\":0,\"cash3\":0,\"quests\":[{\"is_claimed\":false,\"count_now\":1,\"quest_id\":1},{\"is_claimed\":false,\"count_now\":0,\"quest_id\":2},{\"is_claimed\":false,\"count_now\":0,\"quest_id\":3},{\"is_claimed\":false,\"count_now\":0,\"quest_id\":7},{\"is_claimed\":false,\"count_now\":0,\"quest_id\":4}],\"upgrades2\":[[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1],[1,1,1]]}"
+          },
+          {
+            "name": "poki_events_user_id",
+            "value": "9bd8e31b-f8fc-44cd-9c26-c0d4360b5010"
+          },
+          {
+            "name": "GA::8460790931685c9f59f3e669a97521bd::ga_items",
+            "value": "{\"GA::8460790931685c9f59f3e669a97521bd::default_user_id\":\"50bac8ed-2fd4-4f77-966b-08832fffa470\",\"GA::8460790931685c9f59f3e669a97521bd::last_used_identifier\":\"50bac8ed-2fd4-4f77-966b-08832fffa470\",\"GA::8460790931685c9f59f3e669a97521bd::sdk_config_cached\":\"JTdCJTIyc2VydmVyX3RzJTIyOjE3OTUxNTYwMTksJTIyY29uZmlncyUyMjolNUIlNUQsJTIyY29uZmlnc19oYXNoJTIyOiUyMjEyOTYyMTExMCUyMiwlMjJ0aW1lX29mZnNldCUyMjowJTdE\",\"GA::8460790931685c9f59f3e669a97521bd::session_num\":\"1\"}"
+          },
+          {
+            "name": "GA::8460790931685c9f59f3e669a97521bd::ga_session",
+            "value": "[{\"session_id\":\"f197923d-a434-44b3-851f-7988c0cbbf4c\",\"timestamp\":1795156019,\"event\":\"JTdCJTIydiUyMjoyLCUyMmV2ZW50X3V1aWQlMjI6JTIyODIzNGQ1ZDctM2M2Zi00OGM3LThlODYtN2MyYTRkMzgyNjBmJTIyLCUyMnVzZXJfaWQlMjI6JTIyNTBiYWM4ZWQtMmZkNC00Zjc3LTk2NmItMDg4MzJmZmZhNDcwJTIyLCUyMmNsaWVudF90cyUyMjoxNzk1MTU2MDI3LCUyMnNka192ZXJzaW9uJTIyOiUyMmRlZm9sZCUyMDQuMi42JTIyLCUyMm9zX3ZlcnNpb24lMjI6JTIybWFjX29zeCUyMDEwLjE1LjclMjIsJTIybWFudWZhY3R1cmVyJTIyOiUyMnVua25vd24lMjIsJTIyZGV2aWNlJTIyOiUyMnVua25vd24lMjIsJTIyYnJvd3Nlcl92ZXJzaW9uJTIyOiUyMmNocm9tZSUyMDE1OSUyMiwlMjJwbGF0Zm9ybSUyMjolMjJtYWNfb3N4JTIyLCUyMnNlc3Npb25faWQlMjI6JTIyZjE5NzkyM2QtYTQzNC00NGIzLTg1MWYtNzk4OGMwY2JiZjRjJTIyLCUyMnNlc3Npb25fbnVtJTIyOjEsJTIyY29ubmVjdGlvbl90eXBlJTIyOiUyMmxhbiUyMiwlMjJlbmdpbmVfdmVyc2lvbiUyMjolMjJkZWZvbGQlMjAxLjEyLjIlMjIsJTIyYnVpbGQlMjI6JTIyMC4xJTIyJTdE\"}]"
+          },
+          {
+            "name": "GA::8460790931685c9f59f3e669a97521bd::ga_progression",
+            "value": "[]"
+          }
+        ]
+      },
+      {
+        "origin": "https://poki.com",
+        "localStorage": [
+          {
+            "name": "user_current_location",
+            "value": "ca"
+          },
+          {
+            "name": "_uetvid_exp",
+            "value": "Wed, 15 Dec 2027 06:26:54 GMT"
+          },
+          {
+            "name": "_acceptanceState",
+            "value": "Partial"
+          },
+          {
+            "name": "_uetsid_exp",
+            "value": "Sat, 21 Nov 2026 06:26:54 GMT"
+          },
+          {
+            "name": "_gppHash",
+            "value": "jasyJo6AVB/Dn4uAADvwgw=="
+          },
+          {
+            "name": "_uetvid",
+            "value": "611fb320e4ab11f19690816a0ea34a6e"
+          },
+          {
+            "name": "_gcl_ls",
+            "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":1,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1795156013588},\"expires\":1802932013588},\"gsid_dc\":{\"value\":{\"joinId\":\"QhJvAolPQethCvptIg6Ubbvrwe03ggFBoA\",\"lastJoinedTimeMs\":1795156013569},\"expires\":1795156313569},\"gtg_load_status\":{\"status\":2,\"expires\":1795242413984}}"
+          },
+          {
+            "name": "_uetsid",
+            "value": "611f9490e4ab11f1aa5f2f45e1aadd05"
+          },
+          {
+            "name": "visitTimestamp",
+            "value": "1795156014522"
+          }
+        ]
+      }
+    ]
+  },
+  "created_at": "2026-11-20T06:27:36.817663Z"
+}
