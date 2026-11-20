@@ -1,0 +1,208 @@
+{
+  "version": 2,
+  "start_url": "https://f9564e4e-ef25-4e4b-ba67-cb11a1576bbd.gdn.poki.com/68ae072b-bde4-4175-8300-0e3e02c5a10e/index.html?country=US&ccpaApplies=1&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-ae0ed3d1e26d809eeace674b1f38ce4d28ca25d2&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fdrive-mad&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=1%2C76%2C78%2C93%2C103%2C377%2C390%2C893%2C929%2C1139%2C1140%2C1185%2C1190%2C1193&special_condition=landing&bot=1&domain=poki.com&game_id=f9564e4e-ef25-4e4b-ba67-cb11a1576bbd&game_version_id=68ae072b-bde4-4175-8300-0e3e02c5a10e&inspector=0&csp=1",
+  "title": "Drive Mad",
+  "game_frame_url": "https://f9564e4e-ef25-4e4b-ba67-cb11a1576bbd.gdn.poki.com/68ae072b-bde4-4175-8300-0e3e02c5a10e/index.html?country=US&ccpaApplies=1&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-ae0ed3d1e26d809eeace674b1f38ce4d28ca25d2&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fdrive-mad&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=1%2C76%2C78%2C93%2C103%2C377%2C390%2C893%2C929%2C1139%2C1140%2C1185%2C1190%2C1193&special_condition=landing&bot=1&domain=poki.com&game_id=f9564e4e-ef25-4e4b-ba67-cb11a1576bbd&game_version_id=68ae072b-bde4-4175-8300-0e3e02c5a10e&inspector=0&csp=1",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/159.0.8154.6 Safari/537.36",
+  "storage_state": {
+    "cookies": [
+      {
+        "name": "poki_experiments",
+        "value": "%7B%22activeTests%22%3A%5B%2228f14352%22%2C%22377c53f1%22%2C%223fc608a0%22%2C%228150d44d%22%2C%22969a0f4b%22%2C%22a7220b3a%22%2C%22a9c37c9a%22%2C%22bedd87bc%22%2C%22d49297e6%22%2C%22dab3ac7f%22%2C%22f0f069d5%22%5D%7D",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810704688.825103,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid",
+        "value": "av_bMbiShxjx8dk4WDxuXw",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810704689.02275,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_new",
+        "value": "1",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810704689.022795,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_version",
+        "value": "2",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810704689.022835,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_ttl",
+        "value": "15552000",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810704689.022866,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_session",
+        "value": "{\"id\":\"av_bMYJrEZZ5bCWG2WsfCg\",\"expire\":1795154489392,\"tab_id\":\"av_bMWU-vf1ZROjsK94cAQ\",\"depth\":1,\"count\":1,\"page\":{\"path\":\"/en/g/drive-mad\",\"type\":\"game\",\"id\":30370,\"start\":1795152689022,\"pageview_id\":\"av_bMVKs2HOhjhHrNEwmAg\"},\"previous_page\":{},\"landing_page\":{\"path\":\"/en/g/drive-mad\",\"type\":\"game\",\"id\":30370,\"start\":1795152689022,\"pageview_id\":\"av_bMVKs2HOhjhHrNEwmAg\"},\"referrer_domain\":\"\",\"source\":\"direct\",\"medium\":\"unknown\"}",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810704689.392953,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_gcl_au",
+        "value": "1.1.7653415.1795152690",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1802928689,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "__obref",
+        "value": "8e740f52-f5c3-46b6-9c10-bf435fb66076",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1826688689.667454,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "usprivacy",
+        "value": "1NNN",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828848689.907178,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "IABGPP_HDR_GppString",
+        "value": "DBABBg~BAAAAACY.QA",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828848689.909855,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_uetsid",
+        "value": "a38155d0e4a311f1a5d9b15d6eb02102",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1795239089,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_uetvid",
+        "value": "a38161c0e4a311f1911ee5726f0b40e8",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828848689,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      }
+    ],
+    "origins": [
+      {
+        "origin": "https://f9564e4e-ef25-4e4b-ba67-cb11a1576bbd.gdn.poki.com",
+        "localStorage": [
+          {
+            "name": "com.martinmagni.drivemad/version",
+            "value": "{\"version\":1}"
+          },
+          {
+            "name": "startup-time",
+            "value": "1795152690932"
+          },
+          {
+            "name": "com.martinmagni.drivemad/data/sandbox/db",
+            "value": "eAHtVsmOGzcQ/Zc+CwZZ3OfG9ZJgcnGQQxAIM1KPRrA2qGUJg8H8e4rNZkdtWQF888EXFd+rYumxuHS9N+fmQc6a/bZ5oGi63qwWzcN7szyuz+18+7Scw3yx33Wn49fFab3foe9jNvFu2+W6PT9tbj3dYt3uFu2tY/H23B5v6e7w9L3oy3p3+l74Nstqj/Ms7Qtq/8afCWRWz3mA9oK2kcTxaDwE6aN2wiOHPpGI5pY4H4l0ipKBjSZxEqxKxptkdWaRXr3goJFUJa8c9SISxohCDn2SJqWcyml48DoMLNGCKs2VIlrySCsLJHGemAWtvO7TZ9ZFYCYpYpRKvOYlxhgIPgbqhPNiYIEwmYABOKtA9yvOrPVMW0Ej4QxsGlhKVGCUosKgE6mxFAjVyQYARSwzhRUJpCZOWK2ox3UMbKSce2sU8BAjDBlEoFpFJ3WQoAmryggF77ixkUMKfNAgUlSaeUWUAM7YUJ1cfGGZIBooCYxVNrEIjiZhbOJsrAPn1ISgKCTPZY3NO8qENAm4xaUPbEq4z+Cplt5HJQsrKY8+aEdwrzVu68CSAEkwdAExdtw3qig1NNAgPAhX81qpqQaiEurlJg5sMtITRpWyAqSrR8iZ6CKLUhrvEq018xgTtPUkCe/dUHVnP3/+Pc7/fPzt8Y+/HjOH5GqZB7Pm0jz8jYfu5vQiiRePzJoD3t2PWY/wDl8hmCA2QXyCxAThu3CF1ATpCTITRIsYqLCoGWGRM8KiZ4RF0AiLohEWSSMsmkZYRI2wqIKPf7DeeMKm1/u6bKzOmKCis6Iis6KisqIisqKisaIisaKisKIikPUCb16aa4HjkiaoCKyoCKyoCKyoCKyoCKyoCKyoCKyoCKzop9vXXLiXvlLr5uHb2zPLsah4hy4Eqx4c8BZlU1wHvFpovva/575o+B0k+X9+JfyV8EcT4mlclLe6w9l4OzZdh1YZQfGDYMgnw/DYbzqcDgQkxS8Ltis4NU9ZbvE//rfpyiEb/ANUPgm76r7uhfzXht2LqP3YPX9tzO75xw7tXsBNq3YncOLJru15iD53WPH3Zrc/bstiu2Ej2hU+B2hXx2K7EzZ84+TlM24R5PG8e91jRM7VD+ft7nR8my+f1pu3+eK17U7o7Gdduy9t++XanwP6Gav1SyU2HdZm3Gj4RAW+fsu8BDSnweIysnkdTKUXmCTb12KfL4V/PhT7gksdM5OPfwFCWCfV"
+          },
+          {
+            "name": "poki_events_user_id",
+            "value": "02f31899-375a-404c-b1cd-651f83245a1e"
+          },
+          {
+            "name": "com.martinmagni.drivemad/data/sandbox/db.bak",
+            "value": "eAHtVk2P2zYQ/S86GwE5/N4bPy8ttpcUPRSFsWtrvUZsr2E5NhYL//cORVGx6rhAbjnkouF7Mxw9DklpPppT8yBnzdu2eaBout6sFs3DR7M8rE/tfPu0nMN88bbrjoevi+P6bYe+y2zi3bbLdXt62tx6usW63S3aW8fi/bk93NLd/ul70ef17vi98G2W1R7mWdoX1P5xwYDVcx6gPaNtJHE8Gg9B+qid8MihTySiuSXORyKdomRgo0mcBKuS8SZZnVmkVy84aCRVyStHvYiEMaKQQ5+kSSmnchoevA4DS7SgSnOliJY80soCSZwnZkErr/v0mXURmEmKGKUSr3mJMQaCj4E64bwYWCBMJmAAzirQUFnrmbaCRsIZ2DSwlKjAKEWFQSdSYykQqpMNAIpYZgorEkhNnLBaUY/rGNhIOffWKOAhRhgyiEC1ik7qIEETVpURCt5xYyOHFPigQaSoNPOKKAGcsaE6ufjCMkE0UBIYq2xiERxNwtjE2VgHzqkJQVFInssam3eUCWkScItLH9iUcJ/BUy29j0oWVlIefdCO4F5r3NaBJQGSYOgCYuy4b1RRamigQXgQrua1UlMNRCXUy00c2GSkJ4wqZQVIV4+QM9FFFqU03iVaa+YxJmjrSRLeu6Hqzn7+/Huc//n42+Mffz1mDsnVMg9mzbl5+BsP3c3pRRLvGZk1e7yql1mP8MpeIZggNkF8gsQE4WfgCqkJ0hNkJogWMVBhUTPCImeERc8Ii6ARFkUjLJJGWDSNsIgaYVEFl3+w3njCptf7umyszpigorOiIrOiorKiIrKiorGiIrGiorCiIpD1Am++NNcCxyVNUBFYURFYURFYURFYURFYURFYURFYURFY0U+3r7lwL32l1s3Df2/PLMei4h26EKx6sMdblE1x7fFqofnaP0990fC3R/J7fiX8lfBHE+JpXJRvdYez8XZsug6tMoLiD8GQT4bhsd90OB0ISIp/FuxecGqestziO/63x8ohG3wBKp+EXTVb90K+dV33Imr7dc9f+7B7/rEhuxdw05l9C8yR29PAnTqs60ezeztsy5K6odztCi892tWh2O6Ibd04efmMGwF5PO9e3zAi5+qH83Z3PLzPl0/rzft88dp2R3T2s67d57b9cu3PAf2M1fqlEpsOKzBuJ3wiEvd4mZeA5jhYXEY2r4Op9AKTZPta7PO58M/7Yl9wqWNmcvkXBXsZUg=="
+          },
+          {
+            "name": "poki_pbf",
+            "value": "1"
+          },
+          {
+            "name": "com.martinmagni.drivemad/data/sandbox/db.lod",
+            "value": "eAHN001qwzAQhuG7zFoL+d/SzlbsS4Ru2tJsWlooJAvju0fR52/I3CCr4bVBPJLQJleJvZPfH4lVHv9lXD4kbruTy/sxb8f8OuYnZv583qT3c7uEVJ/6tIxzlyTmj98SvZM/idXuNsmVV3+q2vxrTLWmOlOZ+rTKYP6NpoKpCpiaGGg0wdGERxMgTYg0QdKESRMoTajq/c1Jt/qxnfycFt/PQ+XtsTWUlm2w4GSByYKSBSQLRhaILAhZADYFuIS19adpWEMK6zRaoG6pAFkAsgBkAcgCkAUgC0AWgCwAWS93r4+Dy6/knC+4PKL9DmEc3K8="
+          }
+        ]
+      },
+      {
+        "origin": "https://poki.com",
+        "localStorage": [
+          {
+            "name": "user_current_location",
+            "value": "ca"
+          },
+          {
+            "name": "_uetvid_exp",
+            "value": "Wed, 15 Dec 2027 05:31:29 GMT"
+          },
+          {
+            "name": "_acceptanceState",
+            "value": "Partial"
+          },
+          {
+            "name": "_uetsid_exp",
+            "value": "Sat, 21 Nov 2026 05:31:29 GMT"
+          },
+          {
+            "name": "_gppHash",
+            "value": "jasyJo6AVB/Dn4uAADvwgw=="
+          },
+          {
+            "name": "_uetvid",
+            "value": "a38161c0e4a311f1911ee5726f0b40e8"
+          },
+          {
+            "name": "_gcl_ls",
+            "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":1,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1795152689652},\"expires\":1802928689652},\"gsid_dc\":{\"value\":{\"joinId\":\"MSKq3O-1lYa1t_K5Ucftrhi_b-EIrUJEfQ\",\"lastJoinedTimeMs\":1795152689636},\"expires\":1795152989636}}"
+          },
+          {
+            "name": "_uetsid",
+            "value": "a38155d0e4a311f1a5d9b15d6eb02102"
+          },
+          {
+            "name": "visitTimestamp",
+            "value": "1795152689917"
+          }
+        ]
+      }
+    ]
+  },
+  "created_at": "2026-11-20T05:32:11.101061Z"
+}
