@@ -1,0 +1,64 @@
+{
+    "version": 1,
+    "metadata": {
+        "name": "CROWN HUNTERS",
+        "modes": [],
+        "playerCount": 12,
+        "imgPath": "world-1.jpg"
+    },
+    "objects": [
+        {
+            "id": "grass-floor",
+            "name": "Grass World Floor",
+            "transform": { "position": [0, -0.5, 100], "rotation": [0, 0, 0, 1], "scale": [1, 1, 1] },
+            "primitive": { "type": "box", "params": { "width": 64, "height": 1, "depth": 300 }, "color": "#17351f" },
+            "physics": { "type": "cuboid" },
+            "visible": false
+        },
+        {
+            "id": "grass-wall-left",
+            "name": "Left Field Wall",
+            "transform": { "position": [-14.5, 3, -0.75], "rotation": [0, 0, 0, 1], "scale": [1, 1, 1] },
+            "primitive": { "type": "box", "params": { "width": 1, "height": 7, "depth": 11.5 }, "color": "#274d32" },
+            "physics": { "type": "cuboid" },
+            "visible": false
+        },
+        {
+            "id": "grass-wall-right",
+            "name": "Right Field Wall",
+            "transform": { "position": [14.5, 3, -0.75], "rotation": [0, 0, 0, 1], "scale": [1, 1, 1] },
+            "primitive": { "type": "box", "params": { "width": 1, "height": 7, "depth": 11.5 }, "color": "#274d32" },
+            "physics": { "type": "cuboid" },
+            "visible": false
+        },
+        {
+            "id": "grass-wall-end",
+            "name": "Portal End Wall",
+            "transform": { "position": [0, 4.5, 250], "rotation": [0, 0, 0, 1], "scale": [1, 1, 1] },
+            "primitive": { "type": "box", "params": { "width": 30, "height": 10, "depth": 1.2 }, "color": "#274d32" },
+            "physics": { "type": "cuboid" },
+            "visible": false
+        }
+    ],
+    "spawnPoints": {
+        "team1": [],
+        "team2": [],
+        "random": [
+            { "position": { "x": 0, "y": 0.9, "z": -27.5 }, "rotationY": 0 }
+        ]
+    },
+    "navMesh": {
+        "vertices": [[-14, 0, -50], [14, 0, -50], [14, 0, 250], [-14, 0, 250]],
+        "indices": [[0, 1, 2], [0, 2, 3]]
+    },
+    "environment": {
+        "sky": { "topColor": "#1b8ed8", "midColor": "#79d5ff", "bottomColor": "#d9fbff" },
+        "sun": { "color": "#fff4cf", "intensity": 3.8, "direction": [-25, 50, -15] },
+        "fill": { "color": "#bde8ff", "intensity": 0.3 },
+        "ambient": { "skyColor": "#d9f5ff", "groundColor": "#4d7b52", "intensity": 0.85 },
+        "fog": { "color": "#9ddcf0", "near": 110, "far": 340 },
+        "exposure": 1.2,
+        "ibl": true,
+        "iblIntensity": 0.45
+    }
+}
