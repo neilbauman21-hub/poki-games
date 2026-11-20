@@ -1,0 +1,192 @@
+{
+  "version": 2,
+  "start_url": "https://ce2cbe9a-de88-48c1-bc01-a82f7a8ea8ff.gdn.poki.com/934d35ea-6657-4441-aabd-2b5bac812d08/index.html?country=US&ccpaApplies=1&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-ae0ed3d1e26d809eeace674b1f38ce4d28ca25d2&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fdrift-boss&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=1%2C9%2C78%2C93%2C103%2C893%2C1178&special_condition=landing&bot=1&domain=poki.com&game_id=ce2cbe9a-de88-48c1-bc01-a82f7a8ea8ff&game_version_id=934d35ea-6657-4441-aabd-2b5bac812d08&inspector=0&csp=1",
+  "title": "Drift Boss",
+  "game_frame_url": "https://ce2cbe9a-de88-48c1-bc01-a82f7a8ea8ff.gdn.poki.com/934d35ea-6657-4441-aabd-2b5bac812d08/index.html?country=US&ccpaApplies=1&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-ae0ed3d1e26d809eeace674b1f38ce4d28ca25d2&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fdrift-boss&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=1%2C9%2C78%2C93%2C103%2C893%2C1178&special_condition=landing&bot=1&domain=poki.com&game_id=ce2cbe9a-de88-48c1-bc01-a82f7a8ea8ff&game_version_id=934d35ea-6657-4441-aabd-2b5bac812d08&inspector=0&csp=1",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/159.0.8154.6 Safari/537.36",
+  "storage_state": {
+    "cookies": [
+      {
+        "name": "poki_experiments",
+        "value": "%7B%22activeTests%22%3A%5B%2228f14352%22%2C%22377c53f1%22%2C%223fc608a0%22%2C%228150d44d%22%2C%22969a0f4b%22%2C%22a7220b3a%22%2C%22a9c37c9a%22%2C%22bedd87bc%22%2C%22d49297e6%22%2C%22dab3ac7f%22%2C%22f0f069d5%22%5D%7D",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810707907.644158,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid",
+        "value": "av_nw0k2hLqI4LuhGUb63g",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810707907.841817,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_new",
+        "value": "1",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810707907.842602,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_version",
+        "value": "2",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810707907.842764,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_ttl",
+        "value": "15552000",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810707907.842811,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_session",
+        "value": "{\"id\":\"av_nw_VtU2zxNnjXEzZhMQ\",\"expire\":1795157708175,\"tab_id\":\"av_nwzdbG4B9gPxYP03FnQ\",\"depth\":1,\"count\":1,\"page\":{\"path\":\"/en/g/drift-boss\",\"type\":\"game\",\"id\":31379,\"start\":1795155907840,\"pageview_id\":\"av_nw36MsFA2VpqE90Bc9g\"},\"previous_page\":{},\"landing_page\":{\"path\":\"/en/g/drift-boss\",\"type\":\"game\",\"id\":31379,\"start\":1795155907840,\"pageview_id\":\"av_nw36MsFA2VpqE90Bc9g\"},\"referrer_domain\":\"\",\"source\":\"direct\",\"medium\":\"unknown\"}",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810707908.177523,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_gcl_au",
+        "value": "1.1.1943813338.1795155908",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1802931908,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "__obref",
+        "value": "e8f02de1-57ca-4880-96e7-bfa00845a02b",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1826691908.52958,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "usprivacy",
+        "value": "1NNN",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828851908.794678,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "IABGPP_HDR_GppString",
+        "value": "DBABBg~BAAAAACY.QA",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828851908.79964,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_uetsid",
+        "value": "221dffb0e4ab11f1916567b5872a3d9e",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1795242308,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_uetvid",
+        "value": "221e41d0e4ab11f182310768dbaf7a3d",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828851908,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      }
+    ],
+    "origins": [
+      {
+        "origin": "https://ce2cbe9a-de88-48c1-bc01-a82f7a8ea8ff.gdn.poki.com",
+        "localStorage": [
+          {
+            "name": "mjs-drift-boss-game-v1.0.1-dailyreward",
+            "value": "{\"sound\":0.7,\"music\":0.3,\"score\":0,\"hasShownTutorial\":false,\"collectedCoin\":0,\"cars\":[0],\"currentCar\":0,\"currentTip\":0,\"booster1\":1,\"booster2\":1,\"booster3\":1,\"ko\":0,\"hasShownBoosterTutorial\":false}"
+          },
+          {
+            "name": "poki_events_user_id",
+            "value": "e0ddf86b-bebb-4eee-9072-72009da0a491"
+          },
+          {
+            "name": "poki_pbf",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "origin": "https://poki.com",
+        "localStorage": [
+          {
+            "name": "user_current_location",
+            "value": "ca"
+          },
+          {
+            "name": "_uetvid_exp",
+            "value": "Wed, 15 Dec 2027 06:25:08 GMT"
+          },
+          {
+            "name": "_acceptanceState",
+            "value": "Partial"
+          },
+          {
+            "name": "_uetsid_exp",
+            "value": "Sat, 21 Nov 2026 06:25:08 GMT"
+          },
+          {
+            "name": "_gppHash",
+            "value": "jasyJo6AVB/Dn4uAADvwgw=="
+          },
+          {
+            "name": "_uetvid",
+            "value": "221e41d0e4ab11f182310768dbaf7a3d"
+          },
+          {
+            "name": "_gcl_ls",
+            "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":1,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1795155908483},\"expires\":1802931908483},\"gsid_dc\":{\"value\":{\"joinId\":\"Cw74spO_nZJwqvB89EXMbCFLmIp2_0_qmw\",\"lastJoinedTimeMs\":1795155908458},\"expires\":1795156208458},\"gtg_load_status\":{\"status\":2,\"expires\":1795242308778}}"
+          },
+          {
+            "name": "_uetsid",
+            "value": "221dffb0e4ab11f1916567b5872a3d9e"
+          },
+          {
+            "name": "visitTimestamp",
+            "value": "1795155908815"
+          }
+        ]
+      }
+    ]
+  },
+  "created_at": "2026-11-20T06:25:56.907671Z"
+}
