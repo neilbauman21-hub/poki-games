@@ -1,0 +1,214 @@
+{
+  "version": 2,
+  "start_url": "https://c25742e1-d4a2-4519-81fe-a7d3812a8854.gdn.poki.com/42ba81a6-3f55-49b1-8c74-bbc23283f2de/index.html?country=US&ccpaApplies=1&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-8d71d02469e2a649613fd929419c760510dd3004&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Ftnt-sandbox&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=87%2C91%2C93%2C842%2C1140%2C1141%2C1190&ab=4fb6d95e3020d8b93152f378a8052cfe05e98f18&experiment=b-8150d44d&special_condition=landing&bot=1&domain=poki.com&game_id=c25742e1-d4a2-4519-81fe-a7d3812a8854&game_version_id=42ba81a6-3f55-49b1-8c74-bbc23283f2de&inspector=0&csp=1",
+  "title": "TNT SANDBOX \u2014 voxel demolition range",
+  "game_frame_url": "https://c25742e1-d4a2-4519-81fe-a7d3812a8854.gdn.poki.com/42ba81a6-3f55-49b1-8c74-bbc23283f2de/index.html?country=US&ccpaApplies=1&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-8d71d02469e2a649613fd929419c760510dd3004&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Ftnt-sandbox&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=87%2C91%2C93%2C842%2C1140%2C1141%2C1190&ab=4fb6d95e3020d8b93152f378a8052cfe05e98f18&experiment=b-8150d44d&special_condition=landing&bot=1&domain=poki.com&game_id=c25742e1-d4a2-4519-81fe-a7d3812a8854&game_version_id=42ba81a6-3f55-49b1-8c74-bbc23283f2de&inspector=0&csp=1",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/159.0.8154.6 Safari/537.36",
+  "storage_state": {
+    "cookies": [
+      {
+        "name": "poki_experiments",
+        "value": "%7B%22currentAB%22%3A%22b-8150d44d%22%2C%22activeTests%22%3A%5B%2228f14352%22%2C%22377c53f1%22%2C%223fc608a0%22%2C%228150d44d%22%2C%22969a0f4b%22%2C%22a7220b3a%22%2C%22a9c37c9a%22%2C%22bedd87bc%22%2C%22d49297e6%22%2C%22dab3ac7f%22%2C%22f0f069d5%22%5D%7D",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810713235.560672,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_tabt",
+        "value": "4035721570",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1802937235.560766,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid",
+        "value": "av_8kxUnSrpX9u_5TdqDrw",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810713235.801242,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_new",
+        "value": "1",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810713235.801298,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_version",
+        "value": "2",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810713235.801347,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_ttl",
+        "value": "15552000",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810713235.801435,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_session",
+        "value": "{\"id\":\"av_8k6OGEGkqstkVf0nZ-Q\",\"expire\":1795163035921,\"tab_id\":\"av_8k6iGiJVLBXl_Jbu9ow\",\"depth\":1,\"count\":1,\"page\":{\"path\":\"/en/g/tnt-sandbox\",\"type\":\"game\",\"id\":32331,\"start\":1795161235800,\"pageview_id\":\"av_8k9OSdYBMrJbS_9Ta2Q\"},\"previous_page\":{},\"landing_page\":{\"path\":\"/en/g/tnt-sandbox\",\"type\":\"game\",\"id\":32331,\"start\":1795161235800,\"pageview_id\":\"av_8k9OSdYBMrJbS_9Ta2Q\"},\"referrer_domain\":\"\",\"source\":\"direct\",\"medium\":\"unknown\"}",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810713235.93919,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_gcl_au",
+        "value": "1.1.888052463.1795161236",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1802937236,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "__obref",
+        "value": "e63170c4-743c-4da1-84c8-d0b887fd3de5",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1826697236.434945,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "usprivacy",
+        "value": "1NNN",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828857236.748535,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "IABGPP_HDR_GppString",
+        "value": "DBABBg~BAAAAACY.QA",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828857236.751392,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_uetsid",
+        "value": "89d1ec80e4b711f1bd3dd9c2e09aff08",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1795247636,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_uetvid",
+        "value": "89d20270e4b711f1aba823eb35bdb0f6",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828857236,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      }
+    ],
+    "origins": [
+      {
+        "origin": "https://c25742e1-d4a2-4519-81fe-a7d3812a8854.gdn.poki.com",
+        "localStorage": [
+          {
+            "name": "tnt-volume",
+            "value": "1"
+          },
+          {
+            "name": "poki_events_user_id",
+            "value": "f6fb9870-24ec-4271-96f6-4befb972d3f9"
+          },
+          {
+            "name": "pg-campaign-progress",
+            "value": "{\"version\":1,\"revision\":1,\"generation\":0,\"missions\":{\"training\":{\"unlocked\":true,\"completed\":false,\"medal\":0,\"best\":null},\"deadweight\":{\"unlocked\":true,\"completed\":false,\"medal\":0,\"best\":null}}}"
+          },
+          {
+            "name": "pg-campaign-progress-backup",
+            "value": "{\"version\":1,\"revision\":1,\"generation\":0,\"missions\":{\"training\":{\"unlocked\":true,\"completed\":false,\"medal\":0,\"best\":null},\"deadweight\":{\"unlocked\":true,\"completed\":false,\"medal\":0,\"best\":null}}}"
+          },
+          {
+            "name": "poki_pbf",
+            "value": "1"
+          },
+          {
+            "name": "tnt-graphics",
+            "value": "{\"shadowMapSize\":4096,\"debrisShadows\":false,\"renderDistance\":null,\"fog\":null,\"fogStart\":null,\"fogEnd\":null}"
+          }
+        ]
+      },
+      {
+        "origin": "https://poki.com",
+        "localStorage": [
+          {
+            "name": "user_current_location",
+            "value": "ca"
+          },
+          {
+            "name": "_uetvid_exp",
+            "value": "Wed, 15 Dec 2027 07:53:56 GMT"
+          },
+          {
+            "name": "_acceptanceState",
+            "value": "Partial"
+          },
+          {
+            "name": "_uetsid_exp",
+            "value": "Sat, 21 Nov 2026 07:53:56 GMT"
+          },
+          {
+            "name": "_gppHash",
+            "value": "jasyJo6AVB/Dn4uAADvwgw=="
+          },
+          {
+            "name": "_uetvid",
+            "value": "89d20270e4b711f1aba823eb35bdb0f6"
+          },
+          {
+            "name": "_gcl_ls",
+            "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":1,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1795161236338},\"expires\":1802937236338},\"gsid_dc\":{\"value\":{\"joinId\":\"FQyBXUqBp3VhznQMUFgsoTgciJNSAECklg\",\"lastJoinedTimeMs\":1795161236325},\"expires\":1795161536325},\"gtg_load_status\":{\"status\":2,\"expires\":1795247636699}}"
+          },
+          {
+            "name": "_uetsid",
+            "value": "89d1ec80e4b711f1bd3dd9c2e09aff08"
+          },
+          {
+            "name": "visitTimestamp",
+            "value": "1795161236758"
+          }
+        ]
+      }
+    ]
+  },
+  "created_at": "2026-11-20T07:55:14.810349Z"
+}
