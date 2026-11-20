@@ -1,0 +1,204 @@
+{
+  "version": 2,
+  "start_url": "https://d103b864-acf3-4ed7-9e2e-cb0c105f19cf.gdn.poki.com/31688125-90a1-4041-a15c-8fddbf7d10cf/index.html?country=US&ccpaApplies=1&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-e40d6b4e5ed5fa39eb29576a1c368e6dba8fdf16&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fdino-simulator&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=64%2C91%2C93%2C389%2C1140%2C1141%2C1190&ab=acd6ef9dc0f687ad5c041c25fd74e7deff5aa0ae&experiment=a-bedd87bc&special_condition=landing&bot=1&domain=poki.com&game_id=d103b864-acf3-4ed7-9e2e-cb0c105f19cf&game_version_id=31688125-90a1-4041-a15c-8fddbf7d10cf&inspector=0&csp=1",
+  "title": "Dino Simulator",
+  "game_frame_url": "https://d103b864-acf3-4ed7-9e2e-cb0c105f19cf.gdn.poki.com/31688125-90a1-4041-a15c-8fddbf7d10cf/index.html?country=US&ccpaApplies=1&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-e40d6b4e5ed5fa39eb29576a1c368e6dba8fdf16&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fdino-simulator&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&device=desktop&categories=64%2C91%2C93%2C389%2C1140%2C1141%2C1190&ab=acd6ef9dc0f687ad5c041c25fd74e7deff5aa0ae&experiment=a-bedd87bc&special_condition=landing&bot=1&domain=poki.com&game_id=d103b864-acf3-4ed7-9e2e-cb0c105f19cf&game_version_id=31688125-90a1-4041-a15c-8fddbf7d10cf&inspector=0&csp=1",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/159.0.8154.6 Safari/537.36",
+  "storage_state": {
+    "cookies": [
+      {
+        "name": "poki_experiments",
+        "value": "%7B%22currentAB%22%3A%22a-bedd87bc%22%2C%22activeTests%22%3A%5B%2228f14352%22%2C%22377c53f1%22%2C%223fc608a0%22%2C%228150d44d%22%2C%22969a0f4b%22%2C%22a7220b3a%22%2C%22a9c37c9a%22%2C%22bedd87bc%22%2C%22d49297e6%22%2C%22dab3ac7f%22%2C%22f0f069d5%22%5D%7D",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810712293.474701,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid",
+        "value": "av_45QbAU5xPdMB8L46Q5Q",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810712293.665343,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_new",
+        "value": "1",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810712293.665381,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_version",
+        "value": "2",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810712293.665405,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_uid_ttl",
+        "value": "15552000",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810712293.665423,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "poki_session",
+        "value": "{\"id\":\"av_45X3mA9eO20E78NrYXQ\",\"expire\":1795162093852,\"tab_id\":\"av_45cPv8AoCZiNFWt9Y-A\",\"depth\":1,\"count\":1,\"page\":{\"path\":\"/en/g/dino-simulator\",\"type\":\"game\",\"id\":32163,\"start\":1795160293664,\"pageview_id\":\"av_45Q413VxpVMl3gXYb-A\"},\"previous_page\":{},\"landing_page\":{\"path\":\"/en/g/dino-simulator\",\"type\":\"game\",\"id\":32163,\"start\":1795160293664,\"pageview_id\":\"av_45Q413VxpVMl3gXYb-A\"},\"referrer_domain\":\"\",\"source\":\"direct\",\"medium\":\"unknown\"}",
+        "domain": "poki.com",
+        "path": "/",
+        "expires": 1810712293.852718,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_gcl_au",
+        "value": "1.1.1658181787.1795160294",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1802936294,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "__obref",
+        "value": "a637f1a2-7b4b-4094-9973-53c8ca3ccc8f",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1826696294.409497,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "usprivacy",
+        "value": "1NNN",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828856294.797721,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "IABGPP_HDR_GppString",
+        "value": "DBABBg~BAAAAACY.QA",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828856294.800237,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_uetsid",
+        "value": "585f76a0e4b511f1839f07ab0ef70de1",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1795246694,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_uetvid",
+        "value": "585f7380e4b511f1883ca3733f820fe1",
+        "domain": ".poki.com",
+        "path": "/",
+        "expires": 1828856294,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      }
+    ],
+    "origins": [
+      {
+        "origin": "https://d103b864-acf3-4ed7-9e2e-cb0c105f19cf.gdn.poki.com",
+        "localStorage": [
+          {
+            "name": "dino.godot_probe",
+            "value": "none"
+          },
+          {
+            "name": "dino.pack_a",
+            "value": "{\"v\":1,\"b\":\"225.3026\",\"pm\":true,\"sm\":{\"iguano_eggs\":{\"c\":[]},\"spino_eggs\":{\"c\":[]},\"stego_eggs\":{\"c\":[]},\"raptor_challenge\":{},\"pteranodon_sky_race\":{},\"pteranodon_canyon\":{\"u\":1}},\"ac\":{\"counts\":{\"days\":1,\"seconds\":54},\"claimed\":{},\"prizes\":{},\"told\":{},\"seen\":{},\"day\":\"2026-11-19\"},\"fw\":1795160295129,\"cb\":[],\"sa\":1795160361050,\"vi\":2,\"vd\":1,\"lv\":\"2026-11-20\",\"vl\":false,\"ql\":{\"brightness\":0,\"resolution\":1,\"view_distance\":2,\"shadows\":\"ultra\",\"particles\":3,\"water\":2,\"fps\":60,\"bloom\":false,\"speed_lines\":true,\"screen_shake\":true,\"weather\":true,\"day_cycle\":true,\"pathfinding\":true},\"pi\":\"zbrqjgf3e5mwoo38po\",\"np\":[24,34],\"dh\":7,\"wt\":\"clear\"}"
+          },
+          {
+            "name": "poki_ignore_dino.pack_a.local",
+            "value": "{\"at\":1795160361050,\"save\":{\"v\":1,\"b\":\"225.3026\",\"pm\":true,\"sm\":{\"iguano_eggs\":{\"c\":[]},\"spino_eggs\":{\"c\":[]},\"stego_eggs\":{\"c\":[]},\"raptor_challenge\":{},\"pteranodon_sky_race\":{},\"pteranodon_canyon\":{\"u\":1}},\"ac\":{\"counts\":{\"days\":1,\"seconds\":54},\"claimed\":{},\"prizes\":{},\"told\":{},\"seen\":{},\"day\":\"2026-11-19\"},\"fw\":1795160295129,\"cb\":[],\"sa\":1795160361050,\"vi\":2,\"vd\":1,\"lv\":\"2026-11-20\",\"vl\":false,\"ql\":{\"brightness\":0,\"resolution\":1,\"view_distance\":2,\"shadows\":\"ultra\",\"particles\":3,\"water\":2,\"fps\":60,\"bloom\":false,\"speed_lines\":true,\"screen_shake\":true,\"weather\":true,\"day_cycle\":true,\"pathfinding\":true},\"pi\":\"zbrqjgf3e5mwoo38po\",\"np\":[24,34],\"dh\":7,\"wt\":\"clear\"},\"runs\":{}}"
+          },
+          {
+            "name": "poki_events_user_id",
+            "value": "cb13985b-4fa1-49e6-9033-028df878cffc"
+          },
+          {
+            "name": "dino.egglift",
+            "value": "{\"l\":0}"
+          },
+          {
+            "name": "poki_pbf",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "origin": "https://poki.com",
+        "localStorage": [
+          {
+            "name": "user_current_location",
+            "value": "ca"
+          },
+          {
+            "name": "_uetvid_exp",
+            "value": "Wed, 15 Dec 2027 07:38:14 GMT"
+          },
+          {
+            "name": "_acceptanceState",
+            "value": "Partial"
+          },
+          {
+            "name": "_uetsid_exp",
+            "value": "Sat, 21 Nov 2026 07:38:14 GMT"
+          },
+          {
+            "name": "_gppHash",
+            "value": "jasyJo6AVB/Dn4uAADvwgw=="
+          },
+          {
+            "name": "_uetvid",
+            "value": "585f7380e4b511f1883ca3733f820fe1"
+          },
+          {
+            "name": "_gcl_ls",
+            "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":1,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1795160294288},\"expires\":1802936294288},\"gsid_dc\":{\"value\":{\"joinId\":\"eM6_LCdVkqkjhAIRTQLzUNeQw9m90ZHowQ\",\"lastJoinedTimeMs\":1795160294272},\"expires\":1795160594272},\"gtg_load_status\":{\"status\":2,\"expires\":1795246694612}}"
+          },
+          {
+            "name": "_uetsid",
+            "value": "585f76a0e4b511f1839f07ab0ef70de1"
+          },
+          {
+            "name": "visitTimestamp",
+            "value": "1795160294807"
+          }
+        ]
+      }
+    ]
+  },
+  "created_at": "2026-11-20T07:39:22.003847Z"
+}

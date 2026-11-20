@@ -1,0 +1,1 @@
+import{d as s}from"./chunks/chunk-HGLNOBNT.js";import"./chunks/chunk-MR2SPORM.js";onmessage=({data:r})=>{try{let{fields:e,buffers:a}=s(r).transferable();postMessage({fields:e},a)}catch(e){postMessage({error:String(e?.message??e)})}};postMessage({ready:!0});
