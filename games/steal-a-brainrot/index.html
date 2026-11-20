@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Steal and Run</title>
+<style>
+html,body{margin:0;height:100%;background:#111;color:#eee;font:16px system-ui,sans-serif}
+#status{display:grid;place-items:center;height:100%;padding:24px;text-align:center}
+</style>
+</head>
+<body>
+<p id="status">Starting game...</p>
+<script>
+const status = document.getElementById("status");
+(async () => {
+  if (!("serviceWorker" in navigator)) {
+    throw new Error("Run start.command, then open the local URL.");
+  }
+  await navigator.serviceWorker.register("./sw.js");
+  await navigator.serviceWorker.ready;
+  if (!navigator.serviceWorker.controller) {
+    await new Promise((resolve) => {
+      navigator.serviceWorker.addEventListener("controllerchange", resolve, {once: true});
+      setTimeout(resolve, 2000);
+    });
+  }
+  const manifest = await fetch("./manifest.json", {cache: "no-store"}).then((response) => response.json());
+  const main = manifest.entries.find((entry) => entry.url === manifest.start_url)
+    || manifest.entries.find((entry) => entry.path.endsWith(".html"));
+  if (!main) throw new Error("No game HTML was captured.");
+  location.replace("./" + main.path);
+})().catch((error) => {
+  status.textContent = String(error);
+});
+</script>
+</body>
+</html>
